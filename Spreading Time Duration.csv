@@ -1,0 +1,3445 @@
+﻿Disease,Wind_speed,Humidity,Temperature,Spreading_time_duration
+Powdery mildew,2.5,80,25,15
+Powdery mildew,2.5,70,25,17
+Powdery mildew,2.5,60,25,19
+Powdery mildew,5,80,25,11
+Powdery mildew,5,70,25,13
+Powdery mildew,5,60,25,15
+Powdery mildew,2.5,80,30,14
+Powdery mildew,2.5,70,30,16
+Powdery mildew,2.5,60,30,18
+Powdery mildew,5,80,30,9
+Powdery mildew,5,70,30,11
+Powdery mildew,5,60,30,13
+Powdery mildew,1.5,80,25,17
+Powdery mildew,1.5,70,25,19
+Powdery mildew,1.5,60,25,21
+Powdery mildew,4,80,25,13
+Powdery mildew,4,70,25,15
+Powdery mildew,4,60,25,16.5
+Powdery mildew,1.5,80,30,15.5
+Powdery mildew,1.5,70,30,17.5
+Powdery mildew,1.5,60,30,19.5
+Powdery mildew,4,80,30,11
+Powdery mildew,4,70,30,12
+Powdery mildew,4,60,30,14
+Powdery mildew,0.5,80,25,18.5
+Powdery mildew,0.5,70,25,21.5
+Powdery mildew,0.5,60,25,23.5
+Powdery mildew,3,80,25,14.5
+Powdery mildew,3,70,25,16.5
+Powdery mildew,3,60,25,18
+Powdery mildew,0.5,80,30,17
+Powdery mildew,0.5,70,30,19
+Powdery mildew,0.5,60,30,21
+Powdery mildew,3,80,30,12.5
+Powdery mildew,3,70,30,13.5
+Powdery mildew,3,60,30,15.5
+Powdery mildew,1,80,25,18
+Powdery mildew,1,70,25,21
+Powdery mildew,1,60,25,23
+Powdery mildew,3.5,80,25,14
+Powdery mildew,3.5,70,25,16
+Powdery mildew,3.5,60,25,17.5
+Powdery mildew,1,80,30,16.5
+Powdery mildew,1,70,30,18.5
+Powdery mildew,1,60,30,20.5
+Powdery mildew,3.5,80,30,12
+Powdery mildew,3.5,70,30,13
+Powdery mildew,3.5,60,30,15
+Powdery mildew,2,80,25,16.5
+Powdery mildew,2,70,25,18.5
+Powdery mildew,2,60,25,20.5
+Powdery mildew,4.5,80,25,12.5
+Powdery mildew,4.5,70,25,14.5
+Powdery mildew,4.5,60,25,16
+Powdery mildew,2,80,30,15
+Powdery mildew,2,70,30,17
+Powdery mildew,2,60,30,19
+Powdery mildew,4.5,80,30,10.5
+Powdery mildew,4.5,70,30,11.5
+Powdery mildew,4.5,60,30,13.5
+Powdery mildew,2.4,80,25,15
+Powdery mildew,2.4,70,25,17
+Powdery mildew,2.4,60,25,19
+Powdery mildew,4.9,80,25,11
+Powdery mildew,4.9,70,25,13
+Powdery mildew,4.9,60,25,15
+Powdery mildew,2.4,80,30,14
+Powdery mildew,2.4,70,30,16
+Powdery mildew,2.4,60,30,18
+Powdery mildew,4.9,80,30,9
+Powdery mildew,4.9,70,30,11
+Powdery mildew,4.9,60,30,13
+Powdery mildew,2.3,80,25,15.5
+Powdery mildew,2.3,70,25,17.5
+Powdery mildew,2.3,60,25,19.5
+Powdery mildew,4.8,80,25,11.5
+Powdery mildew,4.8,70,25,13.5
+Powdery mildew,4.8,60,25,15.5
+Powdery mildew,2.3,80,30,14.5
+Powdery mildew,2.3,70,30,16.5
+Powdery mildew,2.3,60,30,18.5
+Powdery mildew,4.8,80,30,9.5
+Powdery mildew,4.8,70,30,11.5
+Powdery mildew,4.8,60,30,13.5
+Powdery mildew,2.2,80,25,15.5
+Powdery mildew,2.2,70,25,17.5
+Powdery mildew,2.2,60,25,19.5
+Powdery mildew,4.7,80,25,11.5
+Powdery mildew,4.7,70,25,13.5
+Powdery mildew,4.7,60,25,15.5
+Powdery mildew,2.2,80,30,14.5
+Powdery mildew,2.2,70,30,16.5
+Powdery mildew,2.2,60,30,18.5
+Powdery mildew,4.7,80,30,9.5
+Powdery mildew,4.7,70,30,11.5
+Powdery mildew,4.7,60,30,13.5
+Powdery mildew,2.4,80,25,15
+Powdery mildew,2.4,70,25,17
+Powdery mildew,2.4,60,25,19
+Powdery mildew,4.9,80,25,11
+Powdery mildew,4.9,70,25,13
+Powdery mildew,4.9,60,25,15
+Powdery mildew,2.4,80,30,14
+Powdery mildew,2.4,70,30,16
+Powdery mildew,2.4,60,30,18
+Powdery mildew,4.9,80,30,9
+Powdery mildew,4.9,70,30,11
+Powdery mildew,4.9,60,30,13
+Powdery mildew,2.1,80,25,16
+Powdery mildew,2.1,70,25,17
+Powdery mildew,2.1,60,25,20
+Powdery mildew,4.6,80,25,12
+Powdery mildew,4.6,70,25,14
+Powdery mildew,4.6,60,25,16
+Powdery mildew,2.1,80,30,15
+Powdery mildew,2.1,70,30,17
+Powdery mildew,2.1,60,30,19
+Powdery mildew,4.6,80,30,10
+Powdery mildew,4.6,70,30,12
+Powdery mildew,4.6,60,30,14
+Powdery mildew,1.4,80,25,17
+Powdery mildew,1.4,70,25,19
+Powdery mildew,1.4,60,25,21
+Powdery mildew,3.9,80,25,13
+Powdery mildew,3.9,70,25,15
+Powdery mildew,3.9,60,25,16.5
+Powdery mildew,1.4,80,30,15.5
+Powdery mildew,1.4,70,30,17.5
+Powdery mildew,1.4,60,30,19.5
+Powdery mildew,3.9,80,30,11
+Powdery mildew,3.9,70,30,12
+Powdery mildew,3.9,60,30,14
+Powdery mildew,1.3,80,25,17.5
+Powdery mildew,1.3,70,25,19.5
+Powdery mildew,1.3,60,25,21.5
+Powdery mildew,3.8,80,25,13.5
+Powdery mildew,3.8,70,25,15.5
+Powdery mildew,3.8,60,25,17
+Powdery mildew,1.3,80,30,17
+Powdery mildew,1.3,70,30,18
+Powdery mildew,1.3,60,30,20
+Powdery mildew,3.8,80,30,11.5
+Powdery mildew,3.8,70,30,12.5
+Powdery mildew,3.8,60,30,14.5
+Powdery mildew,1.2,80,25,17.5
+Powdery mildew,1.2,70,25,19.5
+Powdery mildew,1.2,60,25,21.5
+Powdery mildew,3.7,80,25,13.5
+Powdery mildew,3.7,70,25,15.5
+Powdery mildew,3.7,60,25,17
+Powdery mildew,1.2,80,30,17
+Powdery mildew,1.2,70,30,18
+Powdery mildew,1.2,60,30,20
+Powdery mildew,3.7,80,30,11.5
+Powdery mildew,3.7,70,30,12.5
+Powdery mildew,3.7,60,30,14.5
+Powdery mildew,1.1,80,25,17.8
+Powdery mildew,1.1,70,25,19.8
+Powdery mildew,1.1,60,25,21.8
+Powdery mildew,3.6,80,25,13.8
+Powdery mildew,3.6,70,25,15.8
+Powdery mildew,3.6,60,25,17.3
+Powdery mildew,1.1,80,30,17.3
+Powdery mildew,1.1,70,30,18.3
+Powdery mildew,1.1,60,30,20.3
+Powdery mildew,3.6,80,30,11.8
+Powdery mildew,3.6,70,30,12.8
+Powdery mildew,3.6,60,30,14.8
+Powdery mildew,0.1,80,25,18.5
+Powdery mildew,0.1,70,25,21.5
+Powdery mildew,0.1,60,25,23.5
+Powdery mildew,2.6,80,25,15.5
+Powdery mildew,2.6,70,25,17.5
+Powdery mildew,2.6,60,25,18.5
+Powdery mildew,0.1,80,30,19
+Powdery mildew,0.1,70,30,21
+Powdery mildew,0.1,60,30,23
+Powdery mildew,2.6,80,30,14.5
+Powdery mildew,2.6,70,30,15.5
+Powdery mildew,2.6,60,30,16.5
+Powdery mildew,0.4,80,25,18.5
+Powdery mildew,0.4,70,25,21.5
+Powdery mildew,0.4,60,25,23.5
+Powdery mildew,2.9,80,25,14.5
+Powdery mildew,2.9,70,25,16.5
+Powdery mildew,2.9,60,25,18
+Powdery mildew,0.4,80,30,17
+Powdery mildew,0.4,70,30,19
+Powdery mildew,0.4,60,30,21
+Powdery mildew,2.9,80,30,12.5
+Powdery mildew,2.9,70,30,13.5
+Powdery mildew,2.9,60,30,15.5
+Powdery mildew,0.3,80,25,18.5
+Powdery mildew,0.3,70,25,21.5
+Powdery mildew,0.3,60,25,23.5
+Powdery mildew,2.8,80,25,15.5
+Powdery mildew,2.8,70,25,17.5
+Powdery mildew,2.8,60,25,18.5
+Powdery mildew,0.3,80,30,19
+Powdery mildew,0.3,70,30,21
+Powdery mildew,0.3,60,30,23
+Powdery mildew,2.8,80,30,14.5
+Powdery mildew,2.8,70,30,15.5
+Powdery mildew,2.8,60,30,16.5
+Powdery mildew,0.2,80,25,18.5
+Powdery mildew,0.2,70,25,21.5
+Powdery mildew,0.2,60,25,23.5
+Powdery mildew,2.7,80,25,15.5
+Powdery mildew,2.7,70,25,17.5
+Powdery mildew,2.7,60,25,18.5
+Powdery mildew,0.2,80,30,19
+Powdery mildew,0.2,70,30,21
+Powdery mildew,0.2,60,30,23
+Powdery mildew,2.7,80,30,14.5
+Powdery mildew,2.7,70,30,15.5
+Powdery mildew,2.7,60,30,16.5
+Powdery mildew,0.9,80,25,18
+Powdery mildew,0.9,70,25,21
+Powdery mildew,0.9,60,25,23
+Powdery mildew,3.4,80,25,14
+Powdery mildew,3.4,70,25,16
+Powdery mildew,3.4,60,25,17.5
+Powdery mildew,0.9,80,30,16.5
+Powdery mildew,0.9,70,30,18.5
+Powdery mildew,0.9,60,30,20.5
+Powdery mildew,3.4,80,30,12
+Powdery mildew,3.4,70,30,13
+Powdery mildew,3.4,60,30,15
+Powdery mildew,0.8,80,25,18
+Powdery mildew,0.8,70,25,21
+Powdery mildew,0.8,60,25,23
+Powdery mildew,3.3,80,25,14
+Powdery mildew,3.3,70,25,16
+Powdery mildew,3.3,60,25,17.5
+Powdery mildew,0.8,80,30,16.5
+Powdery mildew,0.8,70,30,18.5
+Powdery mildew,0.8,60,30,20.5
+Powdery mildew,3.3,80,30,12
+Powdery mildew,3.3,70,30,13
+Powdery mildew,3.3,60,30,15
+Powdery mildew,0.7,80,25,17.7
+Powdery mildew,0.7,70,25,20.7
+Powdery mildew,0.7,60,25,22.7
+Powdery mildew,3.2,80,25,13.7
+Powdery mildew,3.2,70,25,15.7
+Powdery mildew,3.2,60,25,17.2
+Powdery mildew,0.7,80,30,16.2
+Powdery mildew,0.7,70,30,18.2
+Powdery mildew,0.7,60,30,20.2
+Powdery mildew,3.2,80,30,11.7
+Powdery mildew,3.2,70,30,12.7
+Powdery mildew,3.2,60,30,14.7
+Powdery mildew,0.6,80,25,17.7
+Powdery mildew,0.6,70,25,20.7
+Powdery mildew,0.6,60,25,22.7
+Powdery mildew,3.1,80,25,13.7
+Powdery mildew,3.1,70,25,15.7
+Powdery mildew,3.1,60,25,17.2
+Powdery mildew,0.6,80,30,16.2
+Powdery mildew,0.6,70,30,18.2
+Powdery mildew,0.6,60,30,20.2
+Powdery mildew,3.1,80,30,11.7
+Powdery mildew,3.1,70,30,12.7
+Powdery mildew,3.1,60,30,14.7
+Powdery mildew,1.6,80,25,17
+Powdery mildew,1.6,70,25,19
+Powdery mildew,1.6,60,25,21
+Powdery mildew,4.1,80,25,13
+Powdery mildew,4.1,70,25,15
+Powdery mildew,4.1,60,25,16.5
+Powdery mildew,1.6,80,30,15.5
+Powdery mildew,1.6,70,30,17.5
+Powdery mildew,1.6,60,30,19.5
+Powdery mildew,4.1,80,30,11
+Powdery mildew,4.1,70,30,12
+Powdery mildew,4.1,60,30,14
+Powdery mildew,1.7,80,25,16.8
+Powdery mildew,1.7,70,25,18.8
+Powdery mildew,1.7,60,25,20.8
+Powdery mildew,4.2,80,25,12.8
+Powdery mildew,4.2,70,25,14.8
+Powdery mildew,4.2,60,25,16.3
+Powdery mildew,1.7,80,30,15.3
+Powdery mildew,1.7,70,30,17.3
+Powdery mildew,1.7,60,30,19.3
+Powdery mildew,4.2,80,30,10.8
+Powdery mildew,4.2,70,30,11.8
+Powdery mildew,4.2,60,30,13.8
+Powdery mildew,1.8,80,25,16.8
+Powdery mildew,1.8,70,25,18.8
+Powdery mildew,1.8,60,25,20.8
+Powdery mildew,4.3,80,25,12.8
+Powdery mildew,4.3,70,25,14.8
+Powdery mildew,4.3,60,25,16.3
+Powdery mildew,1.8,80,30,15.3
+Powdery mildew,1.8,70,30,17.3
+Powdery mildew,1.8,60,30,19.3
+Powdery mildew,4.3,80,30,10.8
+Powdery mildew,4.3,70,30,11.8
+Powdery mildew,4.3,60,30,13.8
+Powdery mildew,1.9,80,25,16.8
+Powdery mildew,1.9,70,25,18.8
+Powdery mildew,1.9,60,25,20.8
+Powdery mildew,4.4,80,25,12.8
+Powdery mildew,4.4,70,25,14.8
+Powdery mildew,4.4,60,25,16.3
+Powdery mildew,1.9,80,30,15.3
+Powdery mildew,1.9,70,30,17.3
+Powdery mildew,1.9,60,30,19.3
+Powdery mildew,4.4,80,30,10.8
+Powdery mildew,4.4,70,30,11.8
+Powdery mildew,4.4,60,30,13.8
+Powdery mildew,2,70,35,12.5
+Powdery mildew,2,60,35,14.5
+Powdery mildew,4.5,80,35,6.5
+Powdery mildew,4.5,70,35,8.5
+Powdery mildew,4.5,60,35,10
+Powdery mildew,2,80,40,9
+Powdery mildew,2,70,40,11
+Powdery mildew,2,60,40,13
+Powdery mildew,4.5,80,40,4.5
+Powdery mildew,4.5,70,40,5.5
+Powdery mildew,4.5,60,40,7.5
+Powdery mildew,2.4,80,35,9
+Powdery mildew,2.4,70,35,11
+Powdery mildew,2.4,60,35,13
+Powdery mildew,4.9,80,35,5
+Powdery mildew,4.9,70,35,7
+Powdery mildew,4.9,60,35,9
+Powdery mildew,2.4,80,40,8
+Powdery mildew,2.4,70,40,10
+Powdery mildew,2.4,60,40,12
+Powdery mildew,4.9,80,40,3
+Powdery mildew,4.9,70,40,5
+Powdery mildew,4.9,60,40,7
+Powdery mildew,2.3,80,35,9.5
+Powdery mildew,2.3,70,35,11.5
+Powdery mildew,2.3,60,35,13.5
+Powdery mildew,4.8,80,35,5.5
+Powdery mildew,4.8,70,35,7.5
+Powdery mildew,4.8,60,35,9.5
+Powdery mildew,2.3,80,40,8.5
+Powdery mildew,2.3,70,40,10.5
+Powdery mildew,2.3,60,40,12.5
+Powdery mildew,4.8,80,40,3.5
+Powdery mildew,4.8,70,40,5.5
+Powdery mildew,4.8,60,40,7.5
+Powdery mildew,2.2,80,35,9.5
+Powdery mildew,2.2,70,35,11.5
+Powdery mildew,2.2,60,35,13.5
+Powdery mildew,4.7,80,35,5.5
+Powdery mildew,4.7,70,35,7.5
+Powdery mildew,4.7,60,35,9.5
+Powdery mildew,2.2,80,40,8.5
+Powdery mildew,2.2,70,40,10.5
+Powdery mildew,2.2,60,40,12.5
+Powdery mildew,4.7,80,40,3.5
+Powdery mildew,4.7,70,40,5.5
+Powdery mildew,4.7,60,40,7.5
+Powdery mildew,2.4,80,35,9
+Powdery mildew,2.4,70,35,11
+Powdery mildew,2.4,60,35,13
+Powdery mildew,4.9,80,35,5
+Powdery mildew,4.9,70,35,7
+Powdery mildew,4.9,60,35,9
+Powdery mildew,2.4,80,40,8
+Powdery mildew,2.4,70,40,10
+Powdery mildew,2.4,60,40,12
+Powdery mildew,4.9,80,40,3
+Powdery mildew,4.9,70,40,5
+Powdery mildew,4.9,60,40,7
+Powdery mildew,2.1,80,35,10
+Powdery mildew,2.1,70,35,11
+Powdery mildew,2.1,60,35,14
+Powdery mildew,4.6,80,35,6
+Powdery mildew,4.6,70,35,8
+Powdery mildew,4.6,60,35,10
+Powdery mildew,2.1,80,40,9
+Powdery mildew,2.1,70,40,11
+Powdery mildew,2.1,60,40,13
+Powdery mildew,4.6,80,40,4
+Powdery mildew,4.6,70,40,6
+Powdery mildew,4.6,60,40,8
+Powdery mildew,1.4,80,35,11
+Powdery mildew,1.4,70,35,13
+Powdery mildew,1.4,60,35,15
+Powdery mildew,3.9,80,35,7
+Powdery mildew,3.9,70,35,9
+Powdery mildew,3.9,60,35,10.5
+Powdery mildew,1.4,80,40,9.5
+Powdery mildew,1.4,70,40,11.5
+Powdery mildew,1.4,60,40,13.5
+Powdery mildew,3.9,80,40,5
+Powdery mildew,3.9,70,40,6
+Powdery mildew,3.9,60,40,8
+Powdery mildew,1.3,80,35,11.5
+Powdery mildew,1.3,70,35,13.5
+Powdery mildew,1.3,60,35,15.5
+Powdery mildew,3.8,80,35,7.5
+Powdery mildew,3.8,70,35,9.5
+Powdery mildew,3.8,60,35,11
+Powdery mildew,1.3,80,40,11
+Powdery mildew,1.3,70,40,12
+Powdery mildew,1.3,60,40,14
+Powdery mildew,3.8,80,40,5.5
+Powdery mildew,3.8,70,40,6.5
+Powdery mildew,3.8,60,40,8.5
+Powdery mildew,1.2,80,35,11.5
+Powdery mildew,1.2,70,35,13.5
+Powdery mildew,1.2,60,35,15.5
+Powdery mildew,3.7,80,35,7.5
+Powdery mildew,3.7,70,35,9.5
+Powdery mildew,3.7,60,35,11
+Powdery mildew,1.2,80,40,11
+Powdery mildew,1.2,70,40,12
+Powdery mildew,1.2,60,40,14
+Powdery mildew,3.7,80,40,5.5
+Powdery mildew,3.7,70,40,6.5
+Powdery mildew,3.7,60,40,8.5
+Powdery mildew,1.1,80,35,11.8
+Powdery mildew,1.1,70,35,13.8
+Powdery mildew,1.1,60,35,15.8
+Powdery mildew,3.6,80,35,7.8
+Powdery mildew,3.6,70,35,9.8
+Powdery mildew,3.6,60,35,11.3
+Powdery mildew,1.1,80,40,11.3
+Powdery mildew,1.1,70,40,12.3
+Powdery mildew,1.1,60,40,14.3
+Powdery mildew,3.6,80,40,5.8
+Powdery mildew,3.6,70,40,6.8
+Powdery mildew,3.6,60,40,8.8
+Powdery mildew,0.1,80,35,12.5
+Powdery mildew,0.1,70,35,15.5
+Powdery mildew,0.1,60,35,17.5
+Powdery mildew,2.6,80,35,9.5
+Powdery mildew,2.6,70,35,11.5
+Powdery mildew,2.6,60,35,12.5
+Powdery mildew,0.1,80,40,13
+Powdery mildew,0.1,70,40,15
+Powdery mildew,0.1,60,40,17
+Powdery mildew,2.6,80,40,8.5
+Powdery mildew,2.6,70,40,9.5
+Powdery mildew,2.6,60,40,10.5
+Powdery mildew,0.4,80,35,12.5
+Powdery mildew,0.4,70,35,15.5
+Powdery mildew,0.4,60,35,17.5
+Powdery mildew,2.9,80,35,8.5
+Powdery mildew,2.9,70,35,10.5
+Powdery mildew,2.9,60,35,12
+Powdery mildew,0.4,80,40,11
+Powdery mildew,0.4,70,40,13
+Powdery mildew,0.4,60,40,15
+Powdery mildew,2.9,80,40,6.5
+Powdery mildew,2.9,70,40,7.5
+Powdery mildew,2.9,60,40,9.5
+Powdery mildew,0.3,80,35,12.5
+Powdery mildew,0.3,70,35,15.5
+Powdery mildew,0.3,60,35,17.5
+Powdery mildew,2.8,80,35,9.5
+Powdery mildew,2.8,70,35,11.5
+Powdery mildew,2.8,60,35,12.5
+Powdery mildew,0.3,80,40,13
+Powdery mildew,0.3,70,40,15
+Powdery mildew,0.3,60,40,17
+Powdery mildew,2.8,80,40,8.5
+Powdery mildew,2.8,70,40,9.5
+Powdery mildew,2.8,60,40,10.5
+Powdery mildew,0.2,80,35,12.5
+Powdery mildew,0.2,70,35,15.5
+Powdery mildew,0.2,60,35,17.5
+Powdery mildew,2.7,80,35,9.5
+Powdery mildew,2.7,70,35,11.5
+Powdery mildew,2.7,60,35,12.5
+Powdery mildew,0.2,80,40,13
+Powdery mildew,0.2,70,40,15
+Powdery mildew,0.2,60,40,17
+Powdery mildew,2.7,80,40,8.5
+Powdery mildew,2.7,70,40,9.5
+Powdery mildew,2.7,60,40,10.5
+Powdery mildew,0.9,80,35,12
+Powdery mildew,0.9,70,35,15
+Powdery mildew,0.9,60,35,17
+Powdery mildew,3.4,80,35,8
+Powdery mildew,3.4,70,35,10
+Powdery mildew,3.4,60,35,11.5
+Powdery mildew,0.9,80,40,10.5
+Powdery mildew,0.9,70,40,12.5
+Powdery mildew,0.9,60,40,14.5
+Powdery mildew,3.4,80,40,6
+Powdery mildew,3.4,70,40,7
+Powdery mildew,3.4,60,40,9
+Powdery mildew,0.8,80,35,12
+Powdery mildew,0.8,70,35,15
+Powdery mildew,0.8,60,35,17
+Powdery mildew,3.3,80,35,8
+Powdery mildew,3.3,70,35,10
+Powdery mildew,3.3,60,35,11.5
+Powdery mildew,0.8,80,40,10.5
+Powdery mildew,0.8,70,40,12.5
+Powdery mildew,0.8,60,40,14.5
+Powdery mildew,3.3,80,40,6
+Powdery mildew,3.3,70,40,7
+Powdery mildew,3.3,60,40,9
+Powdery mildew,0.7,80,35,11.7
+Powdery mildew,0.7,70,35,14.7
+Powdery mildew,0.7,60,35,16.7
+Powdery mildew,3.2,80,35,7.7
+Powdery mildew,3.2,70,35,9.7
+Powdery mildew,3.2,60,35,11.2
+Powdery mildew,0.7,80,40,10.2
+Powdery mildew,0.7,70,40,12.2
+Powdery mildew,0.7,60,40,14.2
+Powdery mildew,3.2,80,40,5.7
+Powdery mildew,3.2,70,40,6.7
+Powdery mildew,3.2,60,40,8.7
+Powdery mildew,0.6,80,35,11.7
+Powdery mildew,0.6,70,35,14.7
+Powdery mildew,0.6,60,35,16.7
+Powdery mildew,3.1,80,35,7.7
+Powdery mildew,3.1,70,35,9.7
+Powdery mildew,3.1,60,35,11.2
+Powdery mildew,0.6,80,40,10.2
+Powdery mildew,0.6,70,40,12.2
+Powdery mildew,0.6,60,40,14.2
+Powdery mildew,3.1,80,40,5.7
+Powdery mildew,3.1,70,40,6.7
+Powdery mildew,3.1,60,40,8.7
+Powdery mildew,1.6,80,35,11
+Powdery mildew,1.6,70,35,13
+Powdery mildew,1.6,60,35,15
+Powdery mildew,4.1,80,35,7
+Powdery mildew,4.1,70,35,9
+Powdery mildew,4.1,60,35,10.5
+Powdery mildew,1.6,80,40,9.5
+Powdery mildew,1.6,70,40,11.5
+Powdery mildew,1.6,60,40,13.5
+Powdery mildew,4.1,80,40,5
+Powdery mildew,4.1,70,40,6
+Powdery mildew,4.1,60,40,8
+Powdery mildew,1.7,80,35,10.8
+Powdery mildew,1.7,70,35,12.8
+Powdery mildew,1.7,60,35,14.8
+Powdery mildew,4.2,80,35,6.8
+Powdery mildew,4.2,70,35,8.8
+Powdery mildew,4.2,60,35,10.3
+Powdery mildew,1.7,80,40,9.3
+Powdery mildew,1.7,70,40,11.3
+Powdery mildew,1.7,60,40,13.3
+Powdery mildew,4.2,80,40,4.8
+Powdery mildew,4.2,70,40,5.8
+Powdery mildew,4.2,60,40,7.8
+Powdery mildew,1.8,80,35,10.8
+Powdery mildew,1.8,70,35,12.8
+Powdery mildew,1.8,60,35,14.8
+Powdery mildew,4.3,80,35,6.8
+Powdery mildew,4.3,70,35,8.8
+Powdery mildew,4.3,60,35,10.3
+Powdery mildew,1.8,80,40,9.3
+Powdery mildew,1.8,70,40,11.3
+Powdery mildew,1.8,60,40,13.3
+Powdery mildew,4.3,80,40,4.8
+Powdery mildew,4.3,70,40,5.8
+Powdery mildew,4.3,60,40,7.8
+Powdery mildew,1.9,80,35,10.8
+Powdery mildew,1.9,70,35,12.8
+Powdery mildew,1.9,60,35,14.8
+Powdery mildew,4.4,80,35,6.8
+Powdery mildew,4.4,70,35,8.8
+Powdery mildew,4.4,60,35,10.3
+Powdery mildew,1.9,80,40,9.3
+Powdery mildew,1.9,70,40,11.3
+Powdery mildew,1.9,60,40,13.3
+Powdery mildew,4.4,80,40,4.8
+Powdery mildew,4.4,70,40,5.8
+Powdery mildew,4.4,60,40,7.8
+Powdery mildew,2.5,80,35,10
+Powdery mildew,2.5,70,35,12
+Powdery mildew,2.5,60,35,14
+Powdery mildew,5,80,35,6
+Powdery mildew,5,70,35,7
+Powdery mildew,5,60,35,8
+Powdery mildew,2.5,80,40,8
+Powdery mildew,2.5,70,40,10
+Powdery mildew,2.5,60,40,12
+Powdery mildew,5,80,40,4
+Powdery mildew,5,70,40,5
+Powdery mildew,5,60,40,6
+Powdery mildew,1.5,80,35,11
+Powdery mildew,1.5,70,35,13
+Powdery mildew,1.5,60,35,15
+Powdery mildew,4,80,35,7
+Powdery mildew,4,70,35,9
+Powdery mildew,4,60,35,10.5
+Powdery mildew,1.5,80,40,9.5
+Powdery mildew,1.5,70,40,11.5
+Powdery mildew,1.5,60,40,13.5
+Powdery mildew,4,80,40,5
+Powdery mildew,4,70,40,6
+Powdery mildew,4,60,40,8
+Powdery mildew,0.5,80,35,12.5
+Powdery mildew,0.5,70,35,15.5
+Powdery mildew,0.5,60,35,17.5
+Powdery mildew,3,80,35,8.5
+Powdery mildew,3,70,35,10.5
+Powdery mildew,3,60,35,12
+Powdery mildew,0.5,80,40,11
+Powdery mildew,0.5,70,40,13
+Powdery mildew,0.5,60,40,15
+Powdery mildew,3,80,40,6.5
+Powdery mildew,3,70,40,7.5
+Powdery mildew,3,60,40,9.5
+Powdery mildew,1,80,35,12
+Powdery mildew,1,70,35,15
+Powdery mildew,1,60,35,17
+Powdery mildew,3.5,80,35,8
+Powdery mildew,3.5,70,35,10
+Powdery mildew,3.5,60,35,11.5
+Powdery mildew,1,80,40,10.5
+Powdery mildew,1,70,40,12.5
+Powdery mildew,1,60,40,14.5
+Powdery mildew,3.5,80,40,6
+Powdery mildew,3.5,70,40,7
+Powdery mildew,3.5,60,40,9
+Powdery mildew,2,80,35,10.5
+Powdery mildew,2.5,80,20,15
+Powdery mildew,2.5,70,20,17
+Powdery mildew,2.5,60,20,19
+Powdery mildew,5,80,20,10
+Powdery mildew,5,70,20,12
+Powdery mildew,5,60,20,14
+Powdery mildew,2.5,80,15,20
+Powdery mildew,2.5,70,15,22
+Powdery mildew,2.5,60,15,24
+Powdery mildew,5,80,15,15
+Powdery mildew,5,70,15,17
+Powdery mildew,5,60,15,19
+Powdery mildew,1.5,80,20,17
+Powdery mildew,1.5,70,20,19
+Powdery mildew,1.5,60,20,21
+Powdery mildew,4,80,20,13
+Powdery mildew,4,70,20,15
+Powdery mildew,4,60,20,16.5
+Powdery mildew,1.5,80,15,21.5
+Powdery mildew,1.5,70,15,23.5
+Powdery mildew,1.5,60,15,25.5
+Powdery mildew,4,80,15,17
+Powdery mildew,4,70,15,18
+Powdery mildew,4,60,15,20
+Powdery mildew,0.5,80,20,18.5
+Powdery mildew,0.5,70,20,21.5
+Powdery mildew,0.5,60,20,23.5
+Powdery mildew,3,80,20,14.5
+Powdery mildew,3,70,20,16.5
+Powdery mildew,3,60,20,18
+Powdery mildew,0.5,80,15,23
+Powdery mildew,0.5,70,15,25
+Powdery mildew,0.5,60,15,27
+Powdery mildew,3,80,15,18.5
+Powdery mildew,3,70,15,19.5
+Powdery mildew,3,60,15,21.5
+Powdery mildew,1,80,20,18
+Powdery mildew,1,70,20,21
+Powdery mildew,1,60,20,23
+Powdery mildew,3.5,80,20,14
+Powdery mildew,3.5,70,20,16
+Powdery mildew,3.5,60,20,17.5
+Powdery mildew,1,80,15,22.5
+Powdery mildew,1,70,15,24.5
+Powdery mildew,1,60,15,26.5
+Powdery mildew,3.5,80,15,18
+Powdery mildew,3.5,70,15,19
+Powdery mildew,3.5,60,15,21
+Powdery mildew,2,80,20,16.5
+Powdery mildew,2,70,20,18.5
+Powdery mildew,2,60,20,20.5
+Powdery mildew,4.5,80,20,12.5
+Powdery mildew,4.5,70,20,14.5
+Powdery mildew,4.5,60,20,16
+Powdery mildew,2,80,15,21
+Powdery mildew,2,70,15,23
+Powdery mildew,2,60,15,25
+Powdery mildew,4.5,80,15,16.5
+Powdery mildew,4.5,70,15,17.5
+Powdery mildew,4.5,60,15,21.5
+Powdery mildew,2.4,80,20,15
+Powdery mildew,2.4,70,20,17
+Powdery mildew,2.4,60,20,19
+Powdery mildew,4.9,80,20,11
+Powdery mildew,4.9,70,20,13
+Powdery mildew,4.9,60,20,15
+Powdery mildew,2.4,80,15,20
+Powdery mildew,2.4,70,15,22
+Powdery mildew,2.4,60,15,24
+Powdery mildew,4.9,80,15,15
+Powdery mildew,4.9,70,15,17
+Powdery mildew,4.9,60,15,19
+Powdery mildew,2.3,80,20,15.5
+Powdery mildew,2.3,70,20,17.5
+Powdery mildew,2.3,60,20,19.5
+Powdery mildew,4.8,80,20,11.5
+Powdery mildew,4.8,70,20,13.5
+Powdery mildew,4.8,60,20,15.5
+Powdery mildew,2.3,80,15,20.5
+Powdery mildew,2.3,70,15,22.5
+Powdery mildew,2.3,60,15,24.5
+Powdery mildew,4.8,80,15,15.5
+Powdery mildew,4.8,70,15,17.5
+Powdery mildew,4.8,60,15,19.5
+Powdery mildew,2.2,80,20,15.5
+Powdery mildew,2.2,70,20,17.5
+Powdery mildew,2.2,60,20,19.5
+Powdery mildew,4.7,80,20,11.5
+Powdery mildew,4.7,70,20,13.5
+Powdery mildew,4.7,60,20,15.5
+Powdery mildew,2.2,80,15,20.5
+Powdery mildew,2.2,70,15,22.5
+Powdery mildew,2.2,60,15,24.5
+Powdery mildew,4.7,80,15,15.5
+Powdery mildew,4.7,70,15,17.5
+Powdery mildew,4.7,60,15,19.5
+Powdery mildew,2.4,80,20,15
+Powdery mildew,2.4,70,20,17
+Powdery mildew,2.4,60,20,19
+Powdery mildew,4.9,80,20,11
+Powdery mildew,4.9,70,20,13
+Powdery mildew,4.9,60,20,15
+Powdery mildew,2.4,80,15,20
+Powdery mildew,2.4,70,15,22
+Powdery mildew,2.4,60,15,24
+Powdery mildew,4.9,80,15,15
+Powdery mildew,4.9,70,15,17
+Powdery mildew,4.9,60,15,19
+Powdery mildew,2.1,80,20,16
+Powdery mildew,2.1,70,20,17
+Powdery mildew,2.1,60,20,20
+Powdery mildew,4.6,80,20,12
+Powdery mildew,4.6,70,20,14
+Powdery mildew,4.6,60,20,16
+Powdery mildew,2.1,80,15,21
+Powdery mildew,2.1,70,15,23
+Powdery mildew,2.1,60,15,25
+Powdery mildew,4.6,80,15,16
+Powdery mildew,4.6,70,15,18
+Powdery mildew,4.6,60,15,20
+Powdery mildew,1.4,80,20,17
+Powdery mildew,1.4,70,20,19
+Powdery mildew,1.4,60,20,21
+Powdery mildew,3.9,80,20,13
+Powdery mildew,3.9,70,20,15
+Powdery mildew,3.9,60,20,16.5
+Powdery mildew,1.4,80,15,21.5
+Powdery mildew,1.4,70,15,23.5
+Powdery mildew,1.4,60,15,25.5
+Powdery mildew,3.9,80,15,17
+Powdery mildew,3.9,70,15,18
+Powdery mildew,3.9,60,15,20
+Powdery mildew,1.3,80,20,17.5
+Powdery mildew,1.3,70,20,19.5
+Powdery mildew,1.3,60,20,21.5
+Powdery mildew,3.8,80,20,13.5
+Powdery mildew,3.8,70,20,15.5
+Powdery mildew,3.8,60,20,17
+Powdery mildew,1.3,80,15,23
+Powdery mildew,1.3,70,15,24
+Powdery mildew,1.3,60,15,26
+Powdery mildew,3.8,80,15,17.5
+Powdery mildew,3.8,70,15,18.5
+Powdery mildew,3.8,60,15,20.5
+Powdery mildew,1.2,80,20,17.5
+Powdery mildew,1.2,70,20,19.5
+Powdery mildew,1.2,60,20,21.5
+Powdery mildew,3.7,80,20,13.5
+Powdery mildew,3.7,70,20,15.5
+Powdery mildew,3.7,60,20,17
+Powdery mildew,1.2,80,15,23
+Powdery mildew,1.2,70,15,24
+Powdery mildew,1.2,60,15,26
+Powdery mildew,3.7,80,15,17.5
+Powdery mildew,3.7,70,15,18.5
+Powdery mildew,3.7,60,15,20.5
+Powdery mildew,1.1,80,20,17.8
+Powdery mildew,1.1,70,20,19.8
+Powdery mildew,1.1,60,20,21.8
+Powdery mildew,3.6,80,20,13.8
+Powdery mildew,3.6,70,20,15.8
+Powdery mildew,3.6,60,20,17.3
+Powdery mildew,1.1,80,15,23.3
+Powdery mildew,1.1,70,15,24.3
+Powdery mildew,1.1,60,15,26.3
+Powdery mildew,3.6,80,15,17.8
+Powdery mildew,3.6,70,15,18.8
+Powdery mildew,3.6,60,15,20.8
+Powdery mildew,0.1,80,20,18.5
+Powdery mildew,0.1,70,20,21.5
+Powdery mildew,0.1,60,20,23.5
+Powdery mildew,2.6,80,20,15.5
+Powdery mildew,2.6,70,20,17.5
+Powdery mildew,2.6,60,20,18.5
+Powdery mildew,0.1,80,15,25
+Powdery mildew,0.1,70,15,27
+Powdery mildew,0.1,60,15,29
+Powdery mildew,2.6,80,15,20.5
+Powdery mildew,2.6,70,15,21.5
+Powdery mildew,2.6,60,15,22.5
+Powdery mildew,0.4,80,20,18.5
+Powdery mildew,0.4,70,20,21.5
+Powdery mildew,0.4,60,20,23.5
+Powdery mildew,2.9,80,20,14.5
+Powdery mildew,2.9,70,20,16.5
+Powdery mildew,2.9,60,20,18
+Powdery mildew,0.4,80,15,23
+Powdery mildew,0.4,70,15,25
+Powdery mildew,0.4,60,15,27
+Powdery mildew,2.9,80,15,18.5
+Powdery mildew,2.9,70,15,19.5
+Powdery mildew,2.9,60,15,21.5
+Powdery mildew,0.3,80,20,18.5
+Powdery mildew,0.3,70,20,21.5
+Powdery mildew,0.3,60,20,23.5
+Powdery mildew,2.8,80,20,15.5
+Powdery mildew,2.8,70,20,17.5
+Powdery mildew,2.8,60,20,18.5
+Powdery mildew,0.3,80,15,25
+Powdery mildew,0.3,70,15,27
+Powdery mildew,0.3,60,15,29
+Powdery mildew,2.8,80,15,20.4
+Powdery mildew,2.8,70,15,21.5
+Powdery mildew,2.8,60,15,22.5
+Powdery mildew,0.2,80,20,18.5
+Powdery mildew,0.2,70,20,21.5
+Powdery mildew,0.2,60,20,23.5
+Powdery mildew,2.7,80,20,15.5
+Powdery mildew,2.7,70,20,17.5
+Powdery mildew,2.7,60,20,18.5
+Powdery mildew,0.2,80,15,25
+Powdery mildew,0.2,70,15,27
+Powdery mildew,0.2,60,15,29
+Powdery mildew,2.7,80,15,20.5
+Powdery mildew,2.7,70,15,21.5
+Powdery mildew,2.7,60,15,22.5
+Powdery mildew,0.9,80,20,18
+Powdery mildew,0.9,70,20,21
+Powdery mildew,0.9,60,20,23
+Powdery mildew,3.4,80,20,14
+Powdery mildew,3.4,70,20,16
+Powdery mildew,3.4,60,20,17.5
+Powdery mildew,0.9,80,15,22.5
+Powdery mildew,0.9,70,15,24.5
+Powdery mildew,0.9,60,15,26.5
+Powdery mildew,3.4,80,15,18
+Powdery mildew,3.4,70,15,19
+Powdery mildew,3.4,60,15,21
+Powdery mildew,0.8,80,20,18
+Powdery mildew,0.8,70,20,21
+Powdery mildew,0.8,60,20,23
+Powdery mildew,3.3,80,20,14
+Powdery mildew,3.3,70,20,16
+Powdery mildew,3.3,60,20,17.5
+Powdery mildew,0.8,80,15,22.5
+Powdery mildew,0.8,70,15,24.5
+Powdery mildew,0.8,60,15,26.5
+Powdery mildew,3.3,80,15,18
+Powdery mildew,3.3,70,15,19
+Powdery mildew,3.3,60,15,21
+Powdery mildew,0.7,80,20,17.7
+Powdery mildew,0.7,70,20,20.7
+Powdery mildew,0.7,60,20,22.7
+Powdery mildew,3.2,80,20,13.7
+Powdery mildew,3.2,70,20,15.7
+Powdery mildew,3.2,60,20,17.2
+Powdery mildew,0.7,80,15,22.2
+Powdery mildew,0.7,70,15,24.2
+Powdery mildew,0.7,60,15,26.2
+Powdery mildew,3.2,80,15,17.7
+Powdery mildew,3.2,70,15,18.7
+Powdery mildew,3.2,60,15,20.7
+Powdery mildew,0.6,80,20,17.7
+Powdery mildew,0.6,70,20,20.7
+Powdery mildew,0.6,60,20,22.7
+Powdery mildew,3.1,80,20,13.7
+Powdery mildew,3.1,70,20,15.7
+Powdery mildew,3.1,60,20,17.2
+Powdery mildew,0.6,80,15,16.2
+Powdery mildew,0.6,70,15,24.2
+Powdery mildew,0.6,60,15,26.2
+Powdery mildew,3.1,80,15,17.7
+Powdery mildew,3.1,70,15,18.7
+Powdery mildew,3.1,60,15,20.7
+Powdery mildew,1.6,80,20,17
+Powdery mildew,1.6,70,20,19
+Powdery mildew,1.6,60,20,21
+Powdery mildew,4.1,80,20,13
+Powdery mildew,4.1,70,20,15
+Powdery mildew,4.1,60,20,16.5
+Powdery mildew,1.6,80,15,21.5
+Powdery mildew,1.6,70,15,23.5
+Powdery mildew,1.6,60,15,25.5
+Powdery mildew,4.1,80,15,17
+Powdery mildew,4.1,70,15,18
+Powdery mildew,4.1,60,15,20
+Powdery mildew,1.7,80,20,16.8
+Powdery mildew,1.7,70,20,18.8
+Powdery mildew,1.7,60,20,20.8
+Powdery mildew,4.2,80,20,12.8
+Powdery mildew,4.2,70,20,14.8
+Powdery mildew,4.2,60,20,16.3
+Powdery mildew,1.7,80,15,21.3
+Powdery mildew,1.7,70,15,23.3
+Powdery mildew,1.7,60,15,25.3
+Powdery mildew,4.2,80,15,16.8
+Powdery mildew,4.2,70,15,17.8
+Powdery mildew,4.2,60,15,19.8
+Powdery mildew,1.8,80,20,16.8
+Powdery mildew,1.8,70,20,18.8
+Powdery mildew,1.8,60,20,20.8
+Powdery mildew,4.3,80,20,12.8
+Powdery mildew,4.3,70,20,14.8
+Powdery mildew,4.3,60,20,16.3
+Powdery mildew,1.8,80,15,21.3
+Powdery mildew,1.8,70,15,23.3
+Powdery mildew,1.8,60,15,25.3
+Powdery mildew,4.3,80,15,16.8
+Powdery mildew,4.3,70,15,17.8
+Powdery mildew,4.3,60,15,19.8
+Powdery mildew,1.9,80,20,16.8
+Powdery mildew,1.9,70,20,18.8
+Powdery mildew,1.9,60,20,20.8
+Powdery mildew,4.4,80,20,12.8
+Powdery mildew,4.4,70,20,14.8
+Powdery mildew,4.4,60,20,16.3
+Powdery mildew,1.9,80,15,21.3
+Powdery mildew,1.9,70,15,23.3
+Powdery mildew,1.9,60,15,25.3
+Powdery mildew,4.4,80,15,16.8
+Powdery mildew,4.4,70,15,17.8
+Powdery mildew,4.4,60,15,19.8
+Rust,1.5,80,25,10
+Rust,1.5,70,25,12
+Rust,1.5,60,25,14
+Rust,5,80,25,6
+Rust,5,70,25,7
+Rust,5,60,25,8
+Rust,1.5,80,30,8
+Rust,1.5,70,30,9
+Rust,1.5,60,30,10
+Rust,5,80,30,4
+Rust,5,70,30,5
+Rust,5,60,30,6
+Rust,0.5,80,25,14
+Rust,0.5,70,25,16
+Rust,0.5,60,25,18
+Rust,4,80,25,8
+Rust,4,70,25,9
+Rust,4,60,25,10
+Rust,0.5,80,30,12
+Rust,0.5,70,30,13
+Rust,0.5,60,30,14
+Rust,4,80,30,6
+Rust,4,70,30,7
+Rust,4,60,30,8
+Rust,2,80,25,11.5
+Rust,2,70,25,12.5
+Rust,2,60,25,13.5
+Rust,2,80,30,9.5
+Rust,2,70,30,10.5
+Rust,2,60,30,11.5
+Rust,4,80,25,8
+Rust,4,70,25,9
+Rust,4,60,25,10
+Rust,4,80,30,6
+Rust,4,70,30,7
+Rust,4,60,30,8
+Rust,3,80,25,10
+Rust,3,70,25,11
+Rust,3,60,25,12
+Rust,3,80,30,8
+Rust,3,70,30,9
+Rust,3,60,30,10
+Rust,1,80,25,13
+Rust,1,70,25,14
+Rust,1,60,25,15
+Rust,1,80,30,10
+Rust,1,70,30,11
+Rust,1,60,30,12
+Rust,1.4,80,25,10
+Rust,1.4,70,25,12
+Rust,1.4,60,25,14
+Rust,4.9,80,25,6
+Rust,4.9,70,25,7
+Rust,4.9,60,25,8
+Rust,1.4,80,30,8
+Rust,1.4,70,30,9
+Rust,1.4,60,30,10
+Rust,4.9,80,30,4
+Rust,4.9,70,30,5
+Rust,4.9,60,30,6
+Rust,1.3,80,25,11
+Rust,1.3,70,25,13
+Rust,1.3,60,25,15
+Rust,4.8,80,25,7
+Rust,4.8,70,25,8
+Rust,4.8,60,25,9
+Rust,1.3,80,30,10
+Rust,1.3,70,30,10
+Rust,1.3,60,30,11
+Rust,4.8,80,30,5
+Rust,4.8,70,30,6
+Rust,4.8,60,30,7
+Rust,1.2,80,25,11.5
+Rust,1.2,70,25,13.5
+Rust,1.2,60,25,15.5
+Rust,4.7,80,25,7.5
+Rust,4.7,70,25,8.5
+Rust,4.7,60,25,9.5
+Rust,1.2,80,30,10.5
+Rust,1.2,70,30,10.5
+Rust,1.2,60,30,11.5
+Rust,4.7,80,30,5.5
+Rust,4.7,70,30,6.5
+Rust,4.7,60,30,7.5
+Rust,1.1,80,25,11.5
+Rust,1.1,70,25,13.5
+Rust,1.1,60,25,15.5
+Rust,4.6,80,25,7.5
+Rust,4.6,70,25,8.5
+Rust,4.6,60,25,9.5
+Rust,1.6,80,30,10.5
+Rust,1.6,70,30,10.5
+Rust,1.6,60,30,11.5
+Rust,4.6,80,30,5.5
+Rust,4.6,70,30,6.5
+Rust,4.6,60,30,7.5
+Rust,4.1,80,25,8
+Rust,4.1,70,25,9
+Rust,4.1,60,25,10
+Rust,4.1,80,30,6
+Rust,4.1,70,30,7
+Rust,4.1,60,30,8
+Rust,4.3,80,25,7.8
+Rust,4.3,70,25,8.8
+Rust,4.3,60,25,9.8
+Rust,4.3,80,30,5.8
+Rust,4.3,70,30,6.8
+Rust,4.3,60,30,7.8
+Rust,4.2,80,25,8
+Rust,4.2,70,25,9
+Rust,4.2,60,25,10
+Rust,4.2,80,30,6
+Rust,4.2,70,30,7
+Rust,4.2,60,30,8
+Rust,4.4,80,25,7.8
+Rust,4.4,70,25,8.8
+Rust,4.4,60,25,9.8
+Rust,4.4,80,30,5.8
+Rust,4.4,70,30,6.8
+Rust,4.4,60,30,7.8
+Rust,0.4,80,25,14
+Rust,0.4,70,25,16
+Rust,0.4,60,25,18
+Rust,0.4,80,30,12
+Rust,0.4,70,30,13
+Rust,0.4,60,30,14
+Rust,0.3,80,25,14
+Rust,0.3,70,25,16
+Rust,0.3,60,25,18
+Rust,0.3,80,30,12
+Rust,0.3,70,30,13
+Rust,0.3,60,30,14
+Rust,0.2,80,25,14.5
+Rust,0.2,70,25,16.5
+Rust,0.2,60,25,18.5
+Rust,0.2,80,30,12.5
+Rust,0.2,70,30,13.5
+Rust,0.2,60,30,14.5
+Rust,0.1,80,25,14.5
+Rust,0.1,70,25,16.5
+Rust,0.1,60,25,18.5
+Rust,0.1,80,30,12.5
+Rust,0.1,70,30,13.5
+Rust,0.1,60,30,14.5
+Rust,1.6,80,25,10
+Rust,1.6,70,25,12
+Rust,1.6,60,25,14
+Rust,1.6,80,30,8
+Rust,1.6,70,30,9
+Rust,1.6,60,30,10
+Rust,1.7,80,25,10
+Rust,1.7,70,25,12
+Rust,1.7,60,25,14
+Rust,1.7,80,30,8
+Rust,1.7,70,30,9
+Rust,1.7,60,30,10
+Rust,1.8,80,25,10
+Rust,1.8,70,25,12
+Rust,1.8,60,25,14
+Rust,1.8,80,30,8
+Rust,1.8,70,30,9
+Rust,1.8,60,30,10
+Rust,1.9,80,25,10
+Rust,1.9,70,25,12
+Rust,1.9,60,25,14
+Rust,1.9,80,30,8
+Rust,1.9,70,30,9
+Rust,1.9,60,30,10
+Rust,3.1,80,25,10
+Rust,3.1,70,25,11
+Rust,3.1,60,25,12
+Rust,3.1,80,30,8
+Rust,3.1,70,30,9
+Rust,3.1,60,30,10
+Rust,3.2,80,25,10
+Rust,3.2,70,25,11
+Rust,3.2,60,25,12
+Rust,3.2,80,30,8
+Rust,3.2,70,30,9
+Rust,3.2,60,30,10
+Rust,3.3,80,25,9.5
+Rust,3.3,70,25,10.5
+Rust,3.3,60,25,11.5
+Rust,3.3,80,30,7.5
+Rust,3.3,70,30,8.5
+Rust,3.3,60,30,9.5
+Rust,3.4,80,25,9.5
+Rust,3.4,70,25,10.5
+Rust,3.4,60,25,11.5
+Rust,3.4,80,30,7.5
+Rust,3.4,70,30,8.5
+Rust,3.4,60,30,9.5
+Rust,3.5,80,25,9
+Rust,3.5,70,25,10
+Rust,3.5,60,25,11
+Rust,3.5,80,30,7
+Rust,3.5,70,30,8
+Rust,3.5,60,30,9
+Rust,3.6,80,25,9
+Rust,3.6,70,25,10
+Rust,3.6,60,25,11
+Rust,3.6,80,30,7
+Rust,3.6,70,30,8
+Rust,3.6,60,30,9
+Rust,3.7,80,25,9
+Rust,3.7,70,25,10
+Rust,3.7,60,25,11
+Rust,3.7,80,30,7
+Rust,3.7,70,30,8
+Rust,3.7,60,30,9
+Rust,3.8,80,25,8.5
+Rust,3.8,70,25,9.5
+Rust,3.8,60,25,10.5
+Rust,3.8,80,30,6.5
+Rust,3.8,70,30,7.5
+Rust,3.8,60,30,8.5
+Rust,3.9,80,25,8.5
+Rust,3.9,70,25,9.5
+Rust,3.9,60,25,10.5
+Rust,3.9,80,30,6.5
+Rust,3.9,70,30,7.5
+Rust,3.9,60,30,8.5
+Rust,0.6,80,25,14
+Rust,0.6,70,25,16
+Rust,0.6,60,25,18
+Rust,0.6,80,30,12
+Rust,0.6,70,30,13
+Rust,0.6,60,30,14
+Rust,0.7,80,25,14
+Rust,0.7,70,25,16
+Rust,0.7,60,25,18
+Rust,0.7,80,30,12
+Rust,0.7,70,30,13
+Rust,0.7,60,30,14
+Rust,0.8,80,25,13.5
+Rust,0.8,70,25,15.5
+Rust,0.8,60,25,17.5
+Rust,0.8,80,30,11.5
+Rust,0.8,70,30,12.5
+Rust,0.8,60,30,13.5
+Rust,0.9,80,25,13.5
+Rust,0.9,70,25,15.5
+Rust,0.9,60,25,17.5
+Rust,0.9,80,30,11.5
+Rust,0.9,70,30,12.5
+Rust,0.9,60,30,13.5
+Rust,2.1,80,25,11.5
+Rust,2.1,70,25,12.5
+Rust,2.1,60,25,13.5
+Rust,2.1,80,30,9.5
+Rust,2.1,70,30,10.5
+Rust,2.1,60,30,11.5
+Rust,2.2,80,25,11.5
+Rust,2.2,70,25,12.5
+Rust,2.2,60,25,13.5
+Rust,2.2,80,30,9.5
+Rust,2.2,70,30,10.5
+Rust,2.2,60,30,11.5
+Rust,2.3,80,25,11
+Rust,2.3,70,25,12
+Rust,2.3,60,25,13
+Rust,2.3,80,30,9
+Rust,2.3,70,30,10
+Rust,2.3,60,30,11
+Rust,2.4,80,25,11
+Rust,2.4,70,25,12
+Rust,2.4,60,25,13
+Rust,2.4,80,30,9
+Rust,2.4,70,30,10
+Rust,2.4,60,30,11
+Rust,2.5,80,25,11
+Rust,2.5,70,25,12
+Rust,2.5,60,25,13
+Rust,2.5,80,30,9
+Rust,2.5,70,30,10
+Rust,2.5,60,30,11
+Rust,2.6,80,25,10.7
+Rust,2.6,70,25,11.7
+Rust,2.6,60,25,12.7
+Rust,2.6,80,30,8.7
+Rust,2.6,70,30,9.7
+Rust,2.6,60,30,10.7
+Rust,2.7,80,25,10.7
+Rust,2.7,70,25,11.7
+Rust,2.7,60,25,12.7
+Rust,2.7,80,30,8.7
+Rust,2.7,70,30,9.7
+Rust,2.7,60,30,10.7
+Rust,2.8,80,25,10.5
+Rust,2.8,70,25,11.5
+Rust,2.8,60,25,12.5
+Rust,2.8,80,30,8.5
+Rust,2.8,70,30,9.5
+Rust,2.8,60,30,10.5
+Rust,2.9,80,25,10.5
+Rust,2.9,70,25,11.5
+Rust,2.9,60,25,12.5
+Rust,2.9,80,30,8.5
+Rust,2.9,70,30,9.5
+Rust,2.9,60,30,10.5
+Rust,1.5,80,35,10
+Rust,1.5,70,35,12
+Rust,1.5,60,35,14
+Rust,5,80,35,6
+Rust,5,70,35,7
+Rust,5,60,35,8
+Rust,1.5,80,40,8
+Rust,1.5,70,40,9
+Rust,1.5,60,40,10
+Rust,5,80,40,4
+Rust,5,70,40,5
+Rust,5,60,40,6
+Rust,0.5,80,35,14
+Rust,0.5,70,35,16
+Rust,0.5,60,35,18
+Rust,4,80,35,8
+Rust,4,70,35,9
+Rust,4,60,35,10
+Rust,0.5,80,40,12
+Rust,0.5,70,40,13
+Rust,0.5,60,40,14
+Rust,4,80,40,6
+Rust,4,70,40,7
+Rust,4,60,40,8
+Rust,2,80,35,11.5
+Rust,2,70,35,12.5
+Rust,2,60,35,13.5
+Rust,2,80,35,9.5
+Rust,2,70,35,10.5
+Rust,2,60,35,11.5
+Rust,4,80,40,8
+Rust,4,70,40,9
+Rust,4,60,40,10
+Rust,4,80,40,6
+Rust,4,70,40,7
+Rust,4,60,40,8
+Rust,3,80,35,10
+Rust,3,70,35,11
+Rust,3,60,35,12
+Rust,3,80,35,8
+Rust,3,70,35,9
+Rust,3,60,35,10
+Rust,1,80,40,13
+Rust,1,70,40,14
+Rust,1,60,40,15
+Rust,1,80,40,10
+Rust,1,70,40,11
+Rust,1,60,40,12
+Rust,1.4,80,35,10
+Rust,1.4,70,35,12
+Rust,1.4,60,35,14
+Rust,4.9,80,35,6
+Rust,4.9,70,35,7
+Rust,4.9,60,35,8
+Rust,1.4,80,40,8
+Rust,1.4,70,40,9
+Rust,1.4,60,40,10
+Rust,4.9,80,40,4
+Rust,4.9,70,40,5
+Rust,4.9,60,40,6
+Rust,1.3,80,35,11
+Rust,1.3,70,35,13
+Rust,1.3,60,35,15
+Rust,4.8,80,35,7
+Rust,4.8,70,35,8
+Rust,4.8,60,35,9
+Rust,1.3,80,40,10
+Rust,1.3,70,40,10
+Rust,1.3,60,40,11
+Rust,4.8,80,40,5
+Rust,4.8,70,40,6
+Rust,4.8,60,40,7
+Rust,1.2,80,35,11.5
+Rust,1.2,70,35,13.5
+Rust,1.2,60,35,15.5
+Rust,4.7,80,35,7.5
+Rust,4.7,70,35,8.5
+Rust,4.7,60,35,9.5
+Rust,1.2,80,40,10.5
+Rust,1.2,70,40,10.5
+Rust,1.2,60,40,11.5
+Rust,4.7,80,40,5.5
+Rust,4.7,70,40,6.5
+Rust,4.7,60,40,7.5
+Rust,1.1,80,35,11.5
+Rust,1.1,70,35,13.5
+Rust,1.1,60,35,15.5
+Rust,4.6,80,35,7.5
+Rust,4.6,70,35,8.5
+Rust,4.6,60,35,9.5
+Rust,1.6,80,40,10.5
+Rust,1.6,70,40,10.5
+Rust,1.6,60,40,11.5
+Rust,4.6,80,40,5.5
+Rust,4.6,70,40,6.5
+Rust,4.6,60,40,7.5
+Rust,4.1,80,35,8
+Rust,4.1,70,35,9
+Rust,4.1,60,35,10
+Rust,4.1,80,35,6
+Rust,4.1,70,35,7
+Rust,4.1,60,35,8
+Rust,4.3,80,40,7.8
+Rust,4.3,70,40,8.8
+Rust,4.3,60,40,9.8
+Rust,4.3,80,40,5.8
+Rust,4.3,70,40,6.8
+Rust,4.3,60,40,7.8
+Rust,4.2,80,35,8
+Rust,4.2,70,35,9
+Rust,4.2,60,35,10
+Rust,4.2,80,35,6
+Rust,4.2,70,35,7
+Rust,4.2,60,35,8
+Rust,4.4,80,40,7.8
+Rust,4.4,70,40,8.8
+Rust,4.4,60,40,9.8
+Rust,4.4,80,40,5.8
+Rust,4.4,70,40,6.8
+Rust,4.4,60,40,7.8
+Rust,0.4,80,35,14
+Rust,0.4,70,35,16
+Rust,0.4,60,35,18
+Rust,0.4,80,35,12
+Rust,0.4,70,35,13
+Rust,0.4,60,35,14
+Rust,0.3,80,40,14
+Rust,0.3,70,40,16
+Rust,0.3,60,40,18
+Rust,0.3,80,40,12
+Rust,0.3,70,40,13
+Rust,0.3,60,40,14
+Rust,0.2,80,35,14.5
+Rust,0.2,70,35,16.5
+Rust,0.2,60,35,18.5
+Rust,0.2,80,35,12.5
+Rust,0.2,70,35,13.5
+Rust,0.2,60,35,14.5
+Rust,0.1,80,40,14.5
+Rust,0.1,70,40,16.5
+Rust,0.1,60,40,18.5
+Rust,0.1,80,40,12.5
+Rust,0.1,70,40,13.5
+Rust,0.1,60,40,14.5
+Rust,1.6,80,35,10
+Rust,1.6,70,35,12
+Rust,1.6,60,35,14
+Rust,1.6,80,35,8
+Rust,1.6,70,35,9
+Rust,1.6,60,35,10
+Rust,1.7,80,40,10
+Rust,1.7,70,40,12
+Rust,1.7,60,40,14
+Rust,1.7,80,40,8
+Rust,1.7,70,40,9
+Rust,1.7,60,40,10
+Rust,1.8,80,35,10
+Rust,1.8,70,35,12
+Rust,1.8,60,35,14
+Rust,1.8,80,35,8
+Rust,1.8,70,35,9
+Rust,1.8,60,35,10
+Rust,1.9,80,40,10
+Rust,1.9,70,40,12
+Rust,1.9,60,40,14
+Rust,1.9,80,40,8
+Rust,1.9,70,40,9
+Rust,1.9,60,40,10
+Rust,3.1,80,35,10
+Rust,3.1,70,35,11
+Rust,3.1,60,35,12
+Rust,3.1,80,35,8
+Rust,3.1,70,35,9
+Rust,3.1,60,35,10
+Rust,3.2,80,40,10
+Rust,3.2,70,40,11
+Rust,3.2,60,40,12
+Rust,3.2,80,40,8
+Rust,3.2,70,40,9
+Rust,3.2,60,40,10
+Rust,3.3,80,35,9.5
+Rust,3.3,70,35,10.5
+Rust,3.3,60,35,11.5
+Rust,3.3,80,35,7.5
+Rust,3.3,70,35,8.5
+Rust,3.3,60,35,9.5
+Rust,3.4,80,40,9.5
+Rust,3.4,70,40,10.5
+Rust,3.4,60,40,11.5
+Rust,3.4,80,40,7.5
+Rust,3.4,70,40,8.5
+Rust,3.4,60,40,9.5
+Rust,3.5,80,35,9
+Rust,3.5,70,35,10
+Rust,3.5,60,35,11
+Rust,3.5,80,35,7
+Rust,3.5,70,35,8
+Rust,3.5,60,35,9
+Rust,3.6,80,40,9
+Rust,3.6,70,40,10
+Rust,3.6,60,40,11
+Rust,3.6,80,40,7
+Rust,3.6,70,40,8
+Rust,3.6,60,40,9
+Rust,3.7,80,35,9
+Rust,3.7,70,35,10
+Rust,3.7,60,35,11
+Rust,3.7,80,35,7
+Rust,3.7,70,35,8
+Rust,3.7,60,35,9
+Rust,3.8,80,40,8.5
+Rust,3.8,70,40,9.5
+Rust,3.8,60,40,10.5
+Rust,3.8,80,40,6.5
+Rust,3.8,70,40,7.5
+Rust,3.8,60,40,8.5
+Rust,3.9,80,35,8.5
+Rust,3.9,70,35,9.5
+Rust,3.9,60,35,10.5
+Rust,3.9,80,35,6.5
+Rust,3.9,70,35,7.5
+Rust,3.9,60,35,8.5
+Rust,0.6,80,40,14
+Rust,0.6,70,40,16
+Rust,0.6,60,40,18
+Rust,0.6,80,40,12
+Rust,0.6,70,40,13
+Rust,0.6,60,40,14
+Rust,0.7,80,35,14
+Rust,0.7,70,35,16
+Rust,0.7,60,35,18
+Rust,0.7,80,35,12
+Rust,0.7,70,35,13
+Rust,0.7,60,35,14
+Rust,0.8,80,40,13.5
+Rust,0.8,70,40,15.5
+Rust,0.8,60,40,17.5
+Rust,0.8,80,40,11.5
+Rust,0.8,70,40,12.5
+Rust,0.8,60,40,13.5
+Rust,0.9,80,35,13.5
+Rust,0.9,70,35,15.5
+Rust,0.9,60,35,17.5
+Rust,0.9,80,35,11.5
+Rust,0.9,70,35,12.5
+Rust,0.9,60,35,13.5
+Rust,2.1,80,40,11.5
+Rust,2.1,70,40,12.5
+Rust,2.1,60,40,13.5
+Rust,2.1,80,40,9.5
+Rust,2.1,70,40,10.5
+Rust,2.1,60,40,11.5
+Rust,2.2,80,35,11.5
+Rust,2.2,70,35,12.5
+Rust,2.2,60,35,13.5
+Rust,2.2,80,35,9.5
+Rust,2.2,70,35,10.5
+Rust,2.2,60,35,11.5
+Rust,2.3,80,40,11
+Rust,2.3,70,40,12
+Rust,2.3,60,40,13
+Rust,2.3,80,40,9
+Rust,2.3,70,40,10
+Rust,2.3,60,40,11
+Rust,2.4,80,35,11
+Rust,2.4,70,35,12
+Rust,2.4,60,35,13
+Rust,2.4,80,35,9
+Rust,2.4,70,35,10
+Rust,2.4,60,35,11
+Rust,2.5,80,40,11
+Rust,2.5,70,40,12
+Rust,2.5,60,40,13
+Rust,2.5,80,40,9
+Rust,2.5,70,40,10
+Rust,2.5,60,40,11
+Rust,2.6,80,35,10.7
+Rust,2.6,70,35,11.7
+Rust,2.6,60,35,12.7
+Rust,2.6,80,35,8.7
+Rust,2.6,70,35,9.7
+Rust,2.6,60,35,10.7
+Rust,2.7,80,40,10.7
+Rust,2.7,70,40,11.7
+Rust,2.7,60,40,12.7
+Rust,2.7,80,40,8.7
+Rust,2.7,70,40,9.7
+Rust,2.7,60,40,10.7
+Rust,2.8,80,35,10.5
+Rust,2.8,70,35,11.5
+Rust,2.8,60,35,12.5
+Rust,2.8,80,35,8.5
+Rust,2.8,70,35,9.5
+Rust,2.8,60,35,10.5
+Rust,2.9,80,40,10.5
+Rust,2.9,70,40,11.5
+Rust,2.9,60,40,12.5
+Rust,2.9,80,40,8.5
+Rust,2.9,70,40,9.5
+Rust,2.9,60,40,10.5
+Downy mildew,2,80,25,7
+Downy mildew,2,70,25,9
+Downy mildew,2,60,25,11
+Downy mildew,5,80,25,2
+Downy mildew,5,70,25,4
+Downy mildew,5,60,25,5
+Downy mildew,2,80,30,6
+Downy mildew,2,70,30,7
+Downy mildew,2,60,30,8
+Downy mildew,5,80,30,2
+Downy mildew,5,70,30,3
+Downy mildew,5,60,30,4
+Downy mildew,1,80,25,8.5
+Downy mildew,1,70,25,10.5
+Downy mildew,1,60,25,12.5
+Downy mildew,4,80,25,5
+Downy mildew,4,70,25,6
+Downy mildew,4,60,25,7
+Downy mildew,1,80,30,7
+Downy mildew,1,70,30,8
+Downy mildew,1,60,30,9
+Downy mildew,4,80,30,4
+Downy mildew,4,70,30,5
+Downy mildew,4,60,30,6
+Downy mildew,1.5,80,25,8
+Downy mildew,1.5,70,25,10
+Downy mildew,1.5,60,25,12
+Downy mildew,4.5,80,25,4.5
+Downy mildew,4.5,70,25,5.5
+Downy mildew,4.5,60,25,6.5
+Downy mildew,1.5,80,30,6.5
+Downy mildew,1.5,70,30,7.5
+Downy mildew,1.5,60,30,8.5
+Downy mildew,4.5,80,30,3.5
+Downy mildew,4.5,70,30,4.5
+Downy mildew,4.5,60,30,5.5
+Downy mildew,2.5,80,25,6.5
+Downy mildew,2.5,70,25,8.5
+Downy mildew,2.5,60,25,10.5
+Downy mildew,2.5,80,30,5.5
+Downy mildew,2.5,70,30,6.5
+Downy mildew,2.5,60,30,7.5
+Downy mildew,3.5,80,25,5.5
+Downy mildew,3.5,70,25,6.5
+Downy mildew,3.5,60,25,7.5
+Downy mildew,3.5,80,30,4.5
+Downy mildew,3.5,70,30,5.5
+Downy mildew,3.5,60,30,6.5
+Downy mildew,3,80,25,6
+Downy mildew,3,70,25,7
+Downy mildew,3,60,25,8
+Downy mildew,3,80,30,5
+Downy mildew,3,70,30,6
+Downy mildew,3,60,30,7
+Downy mildew,0.5,80,25,9
+Downy mildew,0.5,70,25,11
+Downy mildew,0.5,60,25,13
+Downy mildew,0.5,80,30,7.5
+Downy mildew,0.5,70,30,8.5
+Downy mildew,0.5,60,30,9.5
+Downy mildew,3.1,80,25,6
+Downy mildew,3.1,70,25,7
+Downy mildew,3.1,60,25,8
+Downy mildew,3.1,80,30,5
+Downy mildew,3.1,70,30,6
+Downy mildew,3.1,60,30,7
+Downy mildew,3.2,80,25,6
+Downy mildew,3.2,70,25,7
+Downy mildew,3.2,60,25,8
+Downy mildew,3.2,80,30,5
+Downy mildew,3.2,70,30,6
+Downy mildew,3.2,60,30,7
+Downy mildew,1.1,80,25,8.5
+Downy mildew,1.1,70,25,10.5
+Downy mildew,1.1,60,25,12.5
+Downy mildew,1.1,80,30,7
+Downy mildew,1.1,70,30,8
+Downy mildew,1.1,60,30,9
+Downy mildew,1.2,80,25,8.5
+Downy mildew,1.2,70,25,10.5
+Downy mildew,1.2,60,25,12.5
+Downy mildew,1.2,80,30,7
+Downy mildew,1.2,70,30,8
+Downy mildew,1.2,60,30,9
+Downy mildew,1.3,80,25,8.2
+Downy mildew,1.3,70,25,10.2
+Downy mildew,1.3,60,25,12.2
+Downy mildew,1.3,80,30,6.7
+Downy mildew,1.3,70,30,7.7
+Downy mildew,1.3,60,30,8.7
+Downy mildew,1.4,80,25,8.2
+Downy mildew,1.4,70,25,10.2
+Downy mildew,1.4,60,25,12.2
+Downy mildew,1.4,80,30,6.7
+Downy mildew,1.4,70,30,7.7
+Downy mildew,1.4,60,30,8.7
+Downy mildew,2.4,80,25,6.5
+Downy mildew,2.4,70,25,8.5
+Downy mildew,2.4,60,25,10.5
+Downy mildew,2.4,80,30,5.5
+Downy mildew,2.4,70,30,6.5
+Downy mildew,2.4,60,30,7.5
+Downy mildew,2.3,80,25,6.7
+Downy mildew,2.3,70,25,8.7
+Downy mildew,2.3,60,25,10.7
+Downy mildew,2.3,80,30,5.7
+Downy mildew,2.3,70,30,6.7
+Downy mildew,2.3,60,30,7.7
+Downy mildew,2.2,80,25,6.7
+Downy mildew,2.2,70,25,8.7
+Downy mildew,2.2,60,25,10.7
+Downy mildew,2.2,80,30,5.7
+Downy mildew,2.2,70,30,6.7
+Downy mildew,2.2,60,30,7.7
+Downy mildew,0.4,80,25,9
+Downy mildew,0.4,70,25,11
+Downy mildew,0.4,60,25,13
+Downy mildew,0.4,80,30,7.5
+Downy mildew,0.4,70,30,8.5
+Downy mildew,0.4,60,30,9.5
+Downy mildew,0.1,80,25,9.5
+Downy mildew,0.1,70,25,11.5
+Downy mildew,0.1,60,25,13.5
+Downy mildew,0.1,80,30,8
+Downy mildew,0.1,70,30,9
+Downy mildew,0.1,60,30,10
+Downy mildew,0.8,80,25,8.7
+Downy mildew,0.8,70,25,10.7
+Downy mildew,0.8,60,25,12.7
+Downy mildew,0.8,80,30,7.2
+Downy mildew,0.8,70,30,8.2
+Downy mildew,0.8,60,30,9.2
+Downy mildew,4.6,80,25,4.5
+Downy mildew,4.6,70,25,5.5
+Downy mildew,4.6,60,25,6.5
+Downy mildew,4.6,80,30,3.5
+Downy mildew,4.6,70,30,4.5
+Downy mildew,4.6,60,30,5.5
+Downy mildew,4.7,80,25,4
+Downy mildew,4.7,70,25,5
+Downy mildew,4.7,60,25,6
+Downy mildew,4.7,80,30,3
+Downy mildew,4.7,70,30,4
+Downy mildew,4.7,60,30,5
+Downy mildew,3.3,80,25,5.7
+Downy mildew,3.3,70,25,6.7
+Downy mildew,3.3,60,25,7.7
+Downy mildew,3.3,80,30,4.7
+Downy mildew,3.3,70,30,5.7
+Downy mildew,3.3,60,30,6.7
+Downy mildew,3.4,80,25,5.7
+Downy mildew,3.4,70,25,6.7
+Downy mildew,3.4,60,25,7.7
+Downy mildew,3.4,80,30,4.7
+Downy mildew,3.4,70,30,5.7
+Downy mildew,3.4,60,30,6.7
+Downy mildew,1.6,80,25,8
+Downy mildew,1.6,70,25,10
+Downy mildew,1.6,60,25,12
+Downy mildew,1.6,80,30,6.5
+Downy mildew,1.6,70,30,7.5
+Downy mildew,1.6,60,30,8.5
+Downy mildew,1.7,80,25,8
+Downy mildew,1.7,70,25,10
+Downy mildew,1.7,60,25,12
+Downy mildew,1.7,80,30,6.5
+Downy mildew,1.7,70,30,7.5
+Downy mildew,1.7,60,30,8.5
+Downy mildew,1.8,80,25,7.5
+Downy mildew,1.8,70,25,9.5
+Downy mildew,1.8,60,25,11.5
+Downy mildew,1.8,80,30,6
+Downy mildew,1.8,70,30,7
+Downy mildew,1.8,60,30,8
+Downy mildew,1.9,80,25,7.5
+Downy mildew,1.9,70,25,9.5
+Downy mildew,1.9,60,25,11.5
+Downy mildew,1.9,80,30,6
+Downy mildew,1.9,70,30,7
+Downy mildew,1.9,60,30,8
+Downy mildew,2.1,80,25,6.7
+Downy mildew,2.1,70,25,8.7
+Downy mildew,2.1,60,25,10.7
+Downy mildew,2.1,80,30,5.7
+Downy mildew,2.1,70,30,6.7
+Downy mildew,2.1,60,30,7.7
+Downy mildew,2.6,80,25,6.5
+Downy mildew,2.6,70,25,8.5
+Downy mildew,2.6,60,25,10.5
+Downy mildew,2.6,80,30,5.5
+Downy mildew,2.6,70,30,6.5
+Downy mildew,2.6,60,30,7.5
+Downy mildew,2.7,80,25,6
+Downy mildew,2.7,70,25,8
+Downy mildew,2.7,60,25,10
+Downy mildew,2.7,80,30,5
+Downy mildew,2.7,70,30,6
+Downy mildew,2.7,60,30,7
+Downy mildew,0.3,80,25,9
+Downy mildew,0.3,70,25,11
+Downy mildew,0.3,60,25,13
+Downy mildew,0.3,80,30,7.5
+Downy mildew,0.3,70,30,8.5
+Downy mildew,0.3,60,30,9.5
+Downy mildew,0.6,80,25,9
+Downy mildew,0.6,70,25,11
+Downy mildew,0.6,60,25,13
+Downy mildew,0.6,80,30,7.5
+Downy mildew,0.6,70,30,8.5
+Downy mildew,0.6,60,30,9.5
+Downy mildew,0.9,80,25,8.7
+Downy mildew,0.9,70,25,10.7
+Downy mildew,0.9,60,25,12.7
+Downy mildew,0.9,80,30,7.2
+Downy mildew,0.9,70,30,8.2
+Downy mildew,0.9,60,30,9.2
+Downy mildew,4.8,80,25,3.5
+Downy mildew,4.8,70,25,4.5
+Downy mildew,4.8,60,25,5.5
+Downy mildew,4.8,80,30,2.5
+Downy mildew,4.8,70,30,3.5
+Downy mildew,4.8,60,30,4.5
+Downy mildew,4.9,80,25,3.5
+Downy mildew,4.9,70,25,4.5
+Downy mildew,4.9,60,25,5.5
+Downy mildew,4.9,80,30,2.5
+Downy mildew,4.9,70,30,3.5
+Downy mildew,4.9,60,30,4.5
+Downy mildew,3.6,80,25,5.5
+Downy mildew,3.6,70,25,6.5
+Downy mildew,3.6,60,25,7.5
+Downy mildew,3.6,80,30,4.5
+Downy mildew,3.6,70,30,5.5
+Downy mildew,3.6,60,30,6.5
+Downy mildew,3.7,80,25,5.5
+Downy mildew,3.7,70,25,6.5
+Downy mildew,3.7,60,25,7.5
+Downy mildew,3.7,80,30,4.5
+Downy mildew,3.7,70,30,5.5
+Downy mildew,3.7,60,30,6.5
+Downy mildew,2.8,80,25,5.5
+Downy mildew,2.8,70,25,7.5
+Downy mildew,2.8,60,25,9.5
+Downy mildew,2.8,80,30,4.5
+Downy mildew,2.8,70,30,5.5
+Downy mildew,2.8,60,30,6.5
+Downy mildew,2.9,80,25,5.5
+Downy mildew,2.9,70,25,7.5
+Downy mildew,2.9,60,25,9.5
+Downy mildew,2.9,80,30,4.5
+Downy mildew,2.9,70,30,5.5
+Downy mildew,2.9,60,30,6.5
+Downy mildew,3.8,80,25,5.2
+Downy mildew,3.8,70,25,6.2
+Downy mildew,3.8,60,25,7.2
+Downy mildew,3.8,80,30,4.2
+Downy mildew,3.8,70,30,5.2
+Downy mildew,3.8,60,30,6.2
+Downy mildew,3.9,80,25,5.2
+Downy mildew,3.9,70,25,6.2
+Downy mildew,3.9,60,25,7.2
+Downy mildew,3.9,80,30,4.2
+Downy mildew,3.9,70,30,5.2
+Downy mildew,3.9,60,30,6.2
+Downy mildew,4.1,80,25,5
+Downy mildew,4.1,70,25,6
+Downy mildew,4.1,60,25,7
+Downy mildew,4.1,80,30,4
+Downy mildew,4.1,70,30,5
+Downy mildew,4.1,60,30,6
+Downy mildew,4.2,80,25,5
+Downy mildew,4.2,70,25,6
+Downy mildew,4.2,60,25,7
+Downy mildew,4.2,80,30,4
+Downy mildew,4.2,70,30,5
+Downy mildew,4.2,60,30,6
+Downy mildew,4.3,80,25,4.7
+Downy mildew,4.3,70,25,5.7
+Downy mildew,4.3,60,25,6.7
+Downy mildew,4.3,80,30,3.7
+Downy mildew,4.3,70,30,4.7
+Downy mildew,4.3,60,30,5.7
+Downy mildew,0.2,80,25,9.5
+Downy mildew,0.2,70,25,11.5
+Downy mildew,0.2,60,25,13.5
+Downy mildew,0.2,80,30,8
+Downy mildew,0.2,70,30,9
+Downy mildew,0.2,60,30,10
+Downy mildew,0.7,80,25,9
+Downy mildew,0.7,70,25,11
+Downy mildew,0.7,60,25,13
+Downy mildew,0.7,80,30,7.5
+Downy mildew,0.7,70,30,8.5
+Downy mildew,0.7,60,30,9.5
+Downy mildew,4.4,80,25,4.7
+Downy mildew,4.4,70,25,5.7
+Downy mildew,4.4,60,25,6.7
+Downy mildew,4.4,80,30,3.7
+Downy mildew,4.4,70,30,4.7
+Downy mildew,4.4,60,30,5.7
+Downy mildew,2,80,20,10
+Downy mildew,2,70,20,12
+Downy mildew,2,60,20,14
+Downy mildew,5,80,20,6
+Downy mildew,5,70,20,7
+Downy mildew,5,60,20,8
+Downy mildew,2,80,15,12
+Downy mildew,2,70,15,14
+Downy mildew,2,60,15,16
+Downy mildew,5,80,15,8
+Downy mildew,5,70,15,9
+Downy mildew,5,60,15,10
+Downy mildew,1,80,20,11.5
+Downy mildew,1,70,20,13.5
+Downy mildew,1,60,20,15.5
+Downy mildew,4,80,20,8
+Downy mildew,4,70,20,9
+Downy mildew,4,60,20,10
+Downy mildew,1,80,15,13
+Downy mildew,1,70,15,14
+Downy mildew,1,60,15,15
+Downy mildew,4,80,15,10
+Downy mildew,4,70,15,11
+Downy mildew,4,60,15,12
+Downy mildew,1.5,80,20,11
+Downy mildew,1.5,70,20,13
+Downy mildew,1.5,60,20,15
+Downy mildew,4.5,80,20,7.5
+Downy mildew,4.5,70,20,8.5
+Downy mildew,4.5,60,20,9.5
+Downy mildew,1.5,80,15,12.5
+Downy mildew,1.5,70,15,13.5
+Downy mildew,1.5,60,15,14.5
+Downy mildew,4.5,80,15,9.5
+Downy mildew,4.5,70,15,10.5
+Downy mildew,4.5,60,15,11.5
+Downy mildew,2.5,80,20,9.5
+Downy mildew,2.5,70,20,11.5
+Downy mildew,2.5,60,20,13.5
+Downy mildew,2.5,80,15,11.5
+Downy mildew,2.5,70,15,12.5
+Downy mildew,2.5,60,15,13.5
+Downy mildew,3.5,80,20,8.5
+Downy mildew,3.5,70,20,9.5
+Downy mildew,3.5,60,20,10.5
+Downy mildew,3.5,80,15,10.5
+Downy mildew,3.5,70,15,11.5
+Downy mildew,3.5,60,15,12.5
+Downy mildew,3,80,20,9
+Downy mildew,3,70,20,10
+Downy mildew,3,60,20,11
+Downy mildew,3,80,15,11
+Downy mildew,3,70,15,12
+Downy mildew,3,60,15,13
+Downy mildew,0.5,80,20,12
+Downy mildew,0.5,70,20,14
+Downy mildew,0.5,60,20,16
+Downy mildew,0.5,80,15,13.5
+Downy mildew,0.5,70,15,14.5
+Downy mildew,0.5,60,15,15.5
+Downy mildew,3.1,80,20,9
+Downy mildew,3.1,70,20,10
+Downy mildew,3.1,60,20,11
+Downy mildew,3.1,80,15,11
+Downy mildew,3.1,70,15,12
+Downy mildew,3.1,60,15,13
+Downy mildew,3.2,80,20,9
+Downy mildew,3.2,70,20,10
+Downy mildew,3.2,60,20,11
+Downy mildew,3.2,80,15,11
+Downy mildew,3.2,70,15,12
+Downy mildew,3.2,60,15,13
+Downy mildew,1.1,80,20,11.5
+Downy mildew,1.1,70,20,13.5
+Downy mildew,1.1,60,20,15.5
+Downy mildew,1.1,80,15,13
+Downy mildew,1.1,70,15,14
+Downy mildew,1.1,60,15,15
+Downy mildew,1.2,80,20,11.5
+Downy mildew,1.2,70,20,13.5
+Downy mildew,1.2,60,20,15.5
+Downy mildew,1.2,80,15,13
+Downy mildew,1.2,70,15,14
+Downy mildew,1.2,60,15,15
+Downy mildew,1.3,80,20,11.2
+Downy mildew,1.3,70,20,13.2
+Downy mildew,1.3,60,20,15.2
+Downy mildew,1.3,80,15,12.7
+Downy mildew,1.3,70,15,13.7
+Downy mildew,1.3,60,15,14.7
+Downy mildew,1.4,80,20,11.2
+Downy mildew,1.4,70,20,13.2
+Downy mildew,1.4,60,20,15.2
+Downy mildew,1.4,80,15,12.7
+Downy mildew,1.4,70,15,13.7
+Downy mildew,1.4,60,15,14.7
+Downy mildew,2.4,80,20,9.5
+Downy mildew,2.4,70,20,11.5
+Downy mildew,2.4,60,20,13.5
+Downy mildew,2.4,80,15,11.5
+Downy mildew,2.4,70,15,12.5
+Downy mildew,2.4,60,15,13.5
+Downy mildew,2.3,80,20,9.7
+Downy mildew,2.3,70,20,11.7
+Downy mildew,2.3,60,20,13.7
+Downy mildew,2.3,80,15,11.7
+Downy mildew,2.3,70,15,12.7
+Downy mildew,2.3,60,15,13.7
+Downy mildew,2.2,80,20,9.7
+Downy mildew,2.2,70,20,11.7
+Downy mildew,2.2,60,20,13.7
+Downy mildew,2.2,80,15,11.7
+Downy mildew,2.2,70,15,12.7
+Downy mildew,2.2,60,15,13.7
+Downy mildew,0.4,80,20,12
+Downy mildew,0.4,70,20,14
+Downy mildew,0.4,60,20,16
+Downy mildew,0.4,80,15,13.5
+Downy mildew,0.4,70,15,14.5
+Downy mildew,0.4,60,15,15.5
+Downy mildew,0.1,80,20,12.5
+Downy mildew,0.1,70,20,14.5
+Downy mildew,0.1,60,20,16.5
+Downy mildew,0.1,80,15,14
+Downy mildew,0.1,70,15,15
+Downy mildew,0.1,60,15,16
+Downy mildew,0.8,80,20,11.7
+Downy mildew,0.8,70,20,13.7
+Downy mildew,0.8,60,20,15.7
+Downy mildew,0.8,80,15,13.2
+Downy mildew,0.8,70,15,14.2
+Downy mildew,0.8,60,15,15.2
+Downy mildew,4.6,80,20,7.5
+Downy mildew,4.6,70,20,8.5
+Downy mildew,4.6,60,20,12.5
+Downy mildew,4.6,80,15,9.5
+Downy mildew,4.6,70,15,10.5
+Downy mildew,4.6,60,15,11.5
+Downy mildew,4.7,80,20,7
+Downy mildew,4.7,70,20,8
+Downy mildew,4.7,60,20,9
+Downy mildew,4.7,80,15,9
+Downy mildew,4.7,70,15,10
+Downy mildew,4.7,60,15,11
+Downy mildew,3.3,80,20,8.7
+Downy mildew,3.3,70,20,9.7
+Downy mildew,3.3,60,20,10.7
+Downy mildew,3.3,80,15,10.7
+Downy mildew,3.3,70,15,11.7
+Downy mildew,3.3,60,15,12.7
+Downy mildew,3.4,80,20,8.7
+Downy mildew,3.4,70,20,9.7
+Downy mildew,3.4,60,20,10.7
+Downy mildew,3.4,80,15,10.7
+Downy mildew,3.4,70,15,11.7
+Downy mildew,3.4,60,15,12.7
+Downy mildew,1.6,80,20,11
+Downy mildew,1.6,70,20,13
+Downy mildew,1.6,60,20,15
+Downy mildew,1.6,80,15,12.5
+Downy mildew,1.6,70,15,13.5
+Downy mildew,1.6,60,15,14.5
+Downy mildew,1.7,80,20,11
+Downy mildew,1.7,70,20,13
+Downy mildew,1.7,60,20,15
+Downy mildew,1.7,80,15,12.5
+Downy mildew,1.7,70,15,13.5
+Downy mildew,1.7,60,15,14.5
+Downy mildew,1.8,80,20,10.5
+Downy mildew,1.8,70,20,12.5
+Downy mildew,1.8,60,20,14.5
+Downy mildew,1.8,80,15,12
+Downy mildew,1.8,70,15,13
+Downy mildew,1.8,60,15,14
+Downy mildew,1.9,80,20,10.5
+Downy mildew,1.9,70,20,12.5
+Downy mildew,1.9,60,20,14.5
+Downy mildew,1.9,80,15,12
+Downy mildew,1.9,70,15,13
+Downy mildew,1.9,60,15,14
+Downy mildew,2.1,80,20,9.7
+Downy mildew,2.1,70,20,11.7
+Downy mildew,2.1,60,20,13.7
+Downy mildew,2.1,80,15,11.7
+Downy mildew,2.1,70,15,12.7
+Downy mildew,2.1,60,15,13.7
+Downy mildew,2.6,80,20,9.5
+Downy mildew,2.6,70,20,11.5
+Downy mildew,2.6,60,20,13.5
+Downy mildew,2.6,80,15,11.5
+Downy mildew,2.6,70,15,12.5
+Downy mildew,2.6,60,15,13.5
+Downy mildew,2.7,80,20,9
+Downy mildew,2.7,70,20,11
+Downy mildew,2.7,60,20,13
+Downy mildew,2.7,80,15,11
+Downy mildew,2.7,70,15,12
+Downy mildew,2.7,60,15,13
+Downy mildew,0.3,80,20,12
+Downy mildew,0.3,70,20,14
+Downy mildew,0.3,60,20,16
+Downy mildew,0.3,80,15,13.5
+Downy mildew,0.3,70,15,14.5
+Downy mildew,0.3,60,15,15.5
+Downy mildew,0.6,80,20,12
+Downy mildew,0.6,70,20,14
+Downy mildew,0.6,60,20,16
+Downy mildew,0.6,80,15,13.5
+Downy mildew,0.6,70,15,14.5
+Downy mildew,0.6,60,15,15.5
+Downy mildew,0.9,80,20,11.7
+Downy mildew,0.9,70,20,13.7
+Downy mildew,0.9,60,20,15.7
+Downy mildew,0.9,80,15,13.2
+Downy mildew,0.9,70,15,14.2
+Downy mildew,0.9,60,15,15.2
+Downy mildew,4.8,80,20,6.5
+Downy mildew,4.8,70,20,7.5
+Downy mildew,4.8,60,20,8.5
+Downy mildew,4.8,80,15,8.5
+Downy mildew,4.8,70,15,9.5
+Downy mildew,4.8,60,15,10.5
+Downy mildew,4.9,80,20,6.5
+Downy mildew,4.9,70,20,7.5
+Downy mildew,4.9,60,20,8.5
+Downy mildew,4.9,80,15,8.5
+Downy mildew,4.9,70,15,9.5
+Downy mildew,4.9,60,15,10.5
+Downy mildew,3.6,80,20,8.5
+Downy mildew,3.6,70,20,9.5
+Downy mildew,3.6,60,20,10.5
+Downy mildew,3.6,80,15,10.5
+Downy mildew,3.6,70,15,11.5
+Downy mildew,3.6,60,15,12.5
+Downy mildew,3.7,80,20,8.5
+Downy mildew,3.7,70,20,9.5
+Downy mildew,3.7,60,20,10.5
+Downy mildew,3.7,80,15,10.5
+Downy mildew,3.7,70,15,11.5
+Downy mildew,3.7,60,15,12.5
+Downy mildew,2.8,80,20,8.5
+Downy mildew,2.8,70,20,10.5
+Downy mildew,2.8,60,20,12.5
+Downy mildew,2.8,80,15,10.5
+Downy mildew,2.8,70,15,11.5
+Downy mildew,2.8,60,15,12.5
+Downy mildew,2.9,80,20,8.5
+Downy mildew,2.9,70,20,10.5
+Downy mildew,2.9,60,20,12.5
+Downy mildew,2.9,80,15,10.5
+Downy mildew,2.9,70,15,11.5
+Downy mildew,2.9,60,15,12.5
+Downy mildew,3.8,80,20,8.2
+Downy mildew,3.8,70,20,9.2
+Downy mildew,3.8,60,20,10.2
+Downy mildew,3.8,80,15,10.2
+Downy mildew,3.8,70,15,11.2
+Downy mildew,3.8,60,15,12.2
+Downy mildew,3.9,80,20,8.2
+Downy mildew,3.9,70,20,9.2
+Downy mildew,3.9,60,20,10.2
+Downy mildew,3.9,80,15,10.2
+Downy mildew,3.9,70,15,11.2
+Downy mildew,3.9,60,15,12.2
+Downy mildew,4.1,80,20,8
+Downy mildew,4.1,70,20,9
+Downy mildew,4.1,60,20,10
+Downy mildew,4.1,80,15,10
+Downy mildew,4.1,70,15,11
+Downy mildew,4.1,60,15,12
+Downy mildew,4.2,80,20,8
+Downy mildew,4.2,70,20,9
+Downy mildew,4.2,60,20,10
+Downy mildew,4.2,80,15,10
+Downy mildew,4.2,70,15,11
+Downy mildew,4.2,60,15,12
+Downy mildew,4.3,80,20,7.7
+Downy mildew,4.3,70,20,8.7
+Downy mildew,4.3,60,20,9.7
+Downy mildew,4.3,80,15,9.7
+Downy mildew,4.3,70,15,10.7
+Downy mildew,4.3,60,15,11.7
+Downy mildew,0.2,80,20,12.5
+Downy mildew,0.2,70,20,14.5
+Downy mildew,0.2,60,20,16.5
+Downy mildew,0.2,80,15,14
+Downy mildew,0.2,70,15,15
+Downy mildew,0.2,60,15,16
+Downy mildew,0.7,80,20,12
+Downy mildew,0.7,70,20,14
+Downy mildew,0.7,60,20,16
+Downy mildew,0.7,80,15,13.5
+Downy mildew,0.7,70,15,14.5
+Downy mildew,0.7,60,15,15.5
+Downy mildew,4.4,80,20,7.7
+Downy mildew,4.4,70,20,8.7
+Downy mildew,4.4,60,20,9.7
+Downy mildew,4.4,80,15,9.7
+Downy mildew,4.4,70,15,10.7
+Downy mildew,4.4,60,15,11.7
+Downy mildew,1,80,35,11.5
+Downy mildew,1,70,35,13.5
+Downy mildew,1,60,35,15.5
+Downy mildew,4,80,35,8
+Downy mildew,4,70,35,9
+Downy mildew,4,60,35,10
+Downy mildew,1,80,40,10
+Downy mildew,1,70,40,11
+Downy mildew,1,60,40,12
+Downy mildew,4,80,40,7
+Downy mildew,4,70,40,8
+Downy mildew,4,60,40,9
+Downy mildew,1.5,80,35,11
+Downy mildew,1.5,70,35,13
+Downy mildew,1.5,60,35,15
+Downy mildew,4.5,80,35,7.5
+Downy mildew,4.5,70,35,8.5
+Downy mildew,4.5,60,35,9.5
+Downy mildew,1.5,80,40,9.5
+Downy mildew,1.5,70,40,10.5
+Downy mildew,1.5,60,40,11.5
+Downy mildew,4.5,80,40,6.5
+Downy mildew,4.5,70,40,7.5
+Downy mildew,4.5,60,40,8.5
+Downy mildew,2.5,80,35,9.5
+Downy mildew,2.5,70,35,11.5
+Downy mildew,2.5,60,35,13.5
+Downy mildew,2.5,80,40,8.5
+Downy mildew,2.5,70,40,9.5
+Downy mildew,2.5,60,40,10.5
+Downy mildew,3.5,80,35,8.5
+Downy mildew,3.5,70,35,9.5
+Downy mildew,3.5,60,35,10.5
+Downy mildew,3.5,80,40,7.5
+Downy mildew,3.5,70,40,8.5
+Downy mildew,3.5,60,40,9.5
+Downy mildew,3,80,35,9
+Downy mildew,3,70,35,10
+Downy mildew,3,60,35,11
+Downy mildew,3,80,40,8
+Downy mildew,3,70,40,9
+Downy mildew,3,60,40,10
+Downy mildew,0.5,80,35,12
+Downy mildew,0.5,70,35,14
+Downy mildew,0.5,60,35,16
+Downy mildew,0.5,80,40,10.5
+Downy mildew,0.5,70,40,11.5
+Downy mildew,0.5,60,40,12.5
+Downy mildew,3.1,80,35,9
+Downy mildew,3.1,70,35,10
+Downy mildew,3.1,60,35,11
+Downy mildew,3.1,80,40,8
+Downy mildew,3.1,70,40,9
+Downy mildew,3.1,60,40,10
+Downy mildew,3.2,80,35,9
+Downy mildew,3.2,70,35,10
+Downy mildew,3.2,60,35,11
+Downy mildew,3.2,80,40,8
+Downy mildew,3.2,70,40,9
+Downy mildew,3.2,60,40,10
+Downy mildew,1.1,80,35,11.5
+Downy mildew,1.1,70,35,13.5
+Downy mildew,1.1,60,35,15.5
+Downy mildew,1.1,80,40,10
+Downy mildew,1.1,70,40,11
+Downy mildew,1.1,60,40,12
+Downy mildew,1.2,80,35,11.5
+Downy mildew,1.2,70,35,13.5
+Downy mildew,1.2,60,35,15.5
+Downy mildew,1.2,80,40,10
+Downy mildew,1.2,70,40,11
+Downy mildew,1.2,60,40,12
+Downy mildew,1.3,80,35,11.2
+Downy mildew,1.3,70,35,13.2
+Downy mildew,1.3,60,35,15.2
+Downy mildew,1.3,80,40,9.7
+Downy mildew,1.3,70,40,10.7
+Downy mildew,1.3,60,40,11.7
+Downy mildew,1.4,80,35,11.2
+Downy mildew,1.4,70,35,13.2
+Downy mildew,1.4,60,35,15.2
+Downy mildew,1.4,80,40,9.7
+Downy mildew,1.4,70,40,10.7
+Downy mildew,1.4,60,40,11.7
+Downy mildew,2.4,80,35,9.5
+Downy mildew,2.4,70,35,11.5
+Downy mildew,2.4,60,35,13.5
+Downy mildew,2.4,80,40,8.5
+Downy mildew,2.4,70,40,9.5
+Downy mildew,2.4,60,40,10.5
+Downy mildew,2.3,80,35,9.7
+Downy mildew,2.3,70,35,11.7
+Downy mildew,2.3,60,35,13.7
+Downy mildew,2.3,80,40,8.7
+Downy mildew,2.3,70,40,9.7
+Downy mildew,2.3,60,40,10.7
+Downy mildew,2.2,80,35,9.7
+Downy mildew,2.2,70,35,11.7
+Downy mildew,2.2,60,35,13.7
+Downy mildew,2.2,80,40,8.7
+Downy mildew,2.2,70,40,9.7
+Downy mildew,2.2,60,40,10.7
+Downy mildew,0.4,80,35,12
+Downy mildew,0.4,70,35,14
+Downy mildew,0.4,60,35,16
+Downy mildew,0.4,80,40,10.5
+Downy mildew,0.4,70,40,11.5
+Downy mildew,0.4,60,40,12.5
+Downy mildew,0.1,80,35,12.5
+Downy mildew,0.1,70,35,14.5
+Downy mildew,0.1,60,35,16.5
+Downy mildew,0.1,80,40,11
+Downy mildew,0.1,70,40,12
+Downy mildew,0.1,60,40,13
+Downy mildew,0.8,80,35,11.7
+Downy mildew,0.8,70,35,13.7
+Downy mildew,0.8,60,35,15.7
+Downy mildew,0.8,80,40,10.2
+Downy mildew,0.8,70,40,11.2
+Downy mildew,0.8,60,40,12.2
+Downy mildew,4.6,80,35,7.5
+Downy mildew,4.6,70,35,8.5
+Downy mildew,4.6,60,35,9.5
+Downy mildew,4.6,80,40,6.5
+Downy mildew,4.6,70,40,7.5
+Downy mildew,4.6,60,40,8.5
+Downy mildew,4.7,80,35,7
+Downy mildew,4.7,70,35,8
+Downy mildew,4.7,60,35,9
+Downy mildew,4.7,80,40,6
+Downy mildew,4.7,70,40,7
+Downy mildew,4.7,60,40,8
+Downy mildew,3.3,80,35,8.7
+Downy mildew,3.3,70,35,9.7
+Downy mildew,3.3,60,35,10.7
+Downy mildew,3.3,80,40,7.7
+Downy mildew,3.3,70,40,8.7
+Downy mildew,3.3,60,40,9.7
+Downy mildew,3.4,80,35,8.7
+Downy mildew,3.4,70,35,9.7
+Downy mildew,3.4,60,35,10.7
+Downy mildew,3.4,80,40,7.7
+Downy mildew,3.4,70,40,8.7
+Downy mildew,3.4,60,40,9.7
+Downy mildew,1.6,80,35,11
+Downy mildew,1.6,70,35,13
+Downy mildew,1.6,60,35,15
+Downy mildew,1.6,80,40,9.5
+Downy mildew,1.6,70,40,10.5
+Downy mildew,1.6,60,40,11.5
+Downy mildew,1.7,80,35,11
+Downy mildew,1.7,70,35,13
+Downy mildew,1.7,60,35,15
+Downy mildew,1.7,80,40,9.5
+Downy mildew,1.7,70,40,10.5
+Downy mildew,1.7,60,40,11.5
+Downy mildew,1.8,80,35,10.5
+Downy mildew,1.8,70,35,12.5
+Downy mildew,1.8,60,35,14.5
+Downy mildew,1.8,80,40,9
+Downy mildew,1.8,70,40,10
+Downy mildew,1.8,60,40,11
+Downy mildew,1.9,80,35,10.5
+Downy mildew,1.9,70,35,12.5
+Downy mildew,1.9,60,35,14.5
+Downy mildew,1.9,80,40,9
+Downy mildew,1.9,70,40,10
+Downy mildew,1.9,60,40,11
+Downy mildew,2.1,80,35,9.7
+Downy mildew,2.1,70,35,11.7
+Downy mildew,2.1,60,35,13.7
+Downy mildew,2.1,80,40,8.7
+Downy mildew,2.1,70,40,9.7
+Downy mildew,2.1,60,40,10.7
+Downy mildew,2.6,80,35,9.5
+Downy mildew,2.6,70,35,11.5
+Downy mildew,2.6,60,35,13.5
+Downy mildew,2.6,80,40,8.5
+Downy mildew,2.6,70,40,9.5
+Downy mildew,2.6,60,40,10.5
+Downy mildew,2.7,80,35,9
+Downy mildew,2.7,70,35,11
+Downy mildew,2.7,60,35,13
+Downy mildew,2.7,80,40,8
+Downy mildew,2.7,70,40,9
+Downy mildew,2.7,60,40,10
+Downy mildew,0.3,80,35,12
+Downy mildew,0.3,70,35,14
+Downy mildew,0.3,60,35,16
+Downy mildew,0.3,80,40,10.5
+Downy mildew,0.3,70,40,11.5
+Downy mildew,0.3,60,40,12.5
+Downy mildew,0.6,80,35,12
+Downy mildew,0.6,70,35,14
+Downy mildew,0.6,60,35,16
+Downy mildew,0.6,80,40,10.5
+Downy mildew,0.6,70,40,11.5
+Downy mildew,0.6,60,40,12.5
+Downy mildew,0.9,80,35,11.7
+Downy mildew,0.9,70,35,13.7
+Downy mildew,0.9,60,35,15.7
+Downy mildew,0.9,80,40,10.2
+Downy mildew,0.9,70,40,11.2
+Downy mildew,0.9,60,40,12.2
+Downy mildew,4.8,80,35,6.5
+Downy mildew,4.8,70,35,7.5
+Downy mildew,4.8,60,35,8.5
+Downy mildew,4.8,80,40,5.5
+Downy mildew,4.8,70,40,6.5
+Downy mildew,4.8,60,40,7.5
+Downy mildew,4.9,80,35,6.5
+Downy mildew,4.9,70,35,7.5
+Downy mildew,4.9,60,35,8.5
+Downy mildew,4.9,80,40,5.5
+Downy mildew,4.9,70,40,6.5
+Downy mildew,4.9,60,40,7.5
+Downy mildew,3.6,80,35,8.5
+Downy mildew,3.6,70,35,9.5
+Downy mildew,3.6,60,35,10.5
+Downy mildew,3.6,80,40,7.5
+Downy mildew,3.6,70,40,8.5
+Downy mildew,3.6,60,40,9.5
+Downy mildew,3.7,80,35,8.5
+Downy mildew,3.7,70,35,9.5
+Downy mildew,3.7,60,35,10.5
+Downy mildew,3.7,80,40,7.5
+Downy mildew,3.7,70,40,8.5
+Downy mildew,3.7,60,40,9.5
+Downy mildew,2.8,80,35,8.5
+Downy mildew,2.8,70,35,10.5
+Downy mildew,2.8,60,35,12.5
+Downy mildew,2.8,80,40,7.5
+Downy mildew,2.8,70,40,8.5
+Downy mildew,2.8,60,40,9.5
+Downy mildew,2.9,80,35,8.5
+Downy mildew,2.9,70,35,10.5
+Downy mildew,2.9,60,35,12.5
+Downy mildew,2.9,80,40,7.5
+Downy mildew,2.9,70,40,8.5
+Downy mildew,2.9,60,40,9.5
+Downy mildew,3.8,80,35,8.2
+Downy mildew,3.8,70,35,9.2
+Downy mildew,3.8,60,35,10.2
+Downy mildew,3.8,80,40,7.2
+Downy mildew,3.8,70,40,8.2
+Downy mildew,3.8,60,40,9.2
+Downy mildew,3.9,80,35,8.2
+Downy mildew,3.9,70,35,9.2
+Downy mildew,3.9,60,35,10.2
+Downy mildew,3.9,80,40,7.2
+Downy mildew,3.9,70,40,8.2
+Downy mildew,3.9,60,40,9.2
+Downy mildew,4.1,80,35,8
+Downy mildew,4.1,70,35,9
+Downy mildew,4.1,60,35,10
+Downy mildew,4.1,80,40,7
+Downy mildew,4.1,70,40,8
+Downy mildew,4.1,60,40,9
+Downy mildew,4.2,80,35,8
+Downy mildew,4.2,70,35,9
+Downy mildew,4.2,60,35,10
+Downy mildew,4.2,80,40,7
+Downy mildew,4.2,70,40,8
+Downy mildew,4.2,60,40,9
+Downy mildew,4.3,80,35,7.7
+Downy mildew,4.3,70,35,8.7
+Downy mildew,4.3,60,35,9.7
+Downy mildew,4.3,80,40,6.7
+Downy mildew,4.3,70,40,7.7
+Downy mildew,4.3,60,40,8.7
+Downy mildew,0.2,80,35,12.5
+Downy mildew,0.2,70,35,14.5
+Downy mildew,0.2,60,35,16.5
+Downy mildew,0.2,80,40,11
+Downy mildew,0.2,70,40,12
+Downy mildew,0.2,60,40,13
+Downy mildew,0.7,80,35,12
+Downy mildew,0.7,70,35,14
+Downy mildew,0.7,60,35,16
+Downy mildew,0.7,80,40,10.5
+Downy mildew,0.7,70,40,11.5
+Downy mildew,0.7,60,40,12.5
+Downy mildew,4.4,80,35,7.7
+Downy mildew,4.4,70,35,8.7
+Downy mildew,4.4,60,35,9.7
+Downy mildew,4.4,80,40,6.7
+Downy mildew,4.4,70,40,7.7
+Downy mildew,4.4,60,40,8.7
+Downy mildew,2,80,35,10
+Downy mildew,2,70,35,12
+Downy mildew,2,60,35,14
+Downy mildew,5,80,35,6
+Downy mildew,5,70,35,7
+Downy mildew,5,60,35,8
+Downy mildew,2,80,40,8
+Downy mildew,2,70,40,10
+Downy mildew,2,60,40,12
+Downy mildew,5,80,40,4
+Downy mildew,5,70,40,5
+Downy mildew,5,60,40,6
+Anthracnose,1,80,25,16
+Anthracnose,1,70,25,18
+Anthracnose,1,60,25,20
+Anthracnose,5,80,25,9
+Anthracnose,5,70,25,11
+Anthracnose,5,60,25,13
+Anthracnose,1,80,30,14
+Anthracnose,1,70,30,15
+Anthracnose,1,60,30,16
+Anthracnose,5,80,30,7
+Anthracnose,5,70,30,8
+Anthracnose,5,60,30,9
+Anthracnose,0.5,80,25,17
+Anthracnose,0.5,70,25,19
+Anthracnose,0.5,60,25,21
+Anthracnose,4.5,80,25,11
+Anthracnose,4.5,70,25,13
+Anthracnose,4.5,60,25,15
+Anthracnose,0.5,80,30,14
+Anthracnose,0.5,70,30,16
+Anthracnose,0.5,60,30,18
+Anthracnose,4.5,80,30,9
+Anthracnose,4.5,70,30,10
+Anthracnose,4.5,60,30,11
+Anthracnose,3,80,25,13.5
+Anthracnose,3,70,25,15.5
+Anthracnose,3,60,25,17.5
+Anthracnose,3,80,30,11.5
+Anthracnose,3,70,30,12.5
+Anthracnose,3,60,30,13.5
+Anthracnose,2,80,25,14.5
+Anthracnose,2,70,25,16.5
+Anthracnose,2,60,25,18.5
+Anthracnose,2,80,30,12.5
+Anthracnose,2,70,30,13.5
+Anthracnose,2,60,30,14.5
+Anthracnose,4,80,25,12
+Anthracnose,4,70,25,14
+Anthracnose,4,60,25,16
+Anthracnose,4,80,30,10
+Anthracnose,4,70,30,11
+Anthracnose,4,60,30,12
+Anthracnose,3.5,80,25,13
+Anthracnose,3.5,70,25,15
+Anthracnose,3.5,60,25,17
+Anthracnose,3.5,80,30,11
+Anthracnose,3.5,70,30,12
+Anthracnose,3.5,60,30,13
+Anthracnose,2.5,80,25,14
+Anthracnose,2.5,70,25,16
+Anthracnose,2.5,60,25,18
+Anthracnose,2.5,80,30,12
+Anthracnose,2.5,70,30,13
+Anthracnose,2.5,60,30,14
+Anthracnose,1.5,80,25,15
+Anthracnose,1.5,70,25,17
+Anthracnose,1.5,60,25,19
+Anthracnose,1.5,80,30,13
+Anthracnose,1.5,70,30,14
+Anthracnose,1.5,60,30,15
+Anthracnose,0.6,80,25,17
+Anthracnose,0.6,70,25,19
+Anthracnose,0.6,60,25,21
+Anthracnose,0.6,80,30,14
+Anthracnose,0.6,70,30,16
+Anthracnose,0.6,60,30,18
+Anthracnose,0.7,80,25,17
+Anthracnose,0.7,70,25,19
+Anthracnose,0.7,60,25,21
+Anthracnose,0.7,80,30,14
+Anthracnose,0.7,70,30,16
+Anthracnose,0.7,60,30,18
+Anthracnose,0.4,80,25,17
+Anthracnose,0.4,70,25,19
+Anthracnose,0.4,60,25,21
+Anthracnose,0.4,80,30,14
+Anthracnose,0.4,70,30,16
+Anthracnose,0.4,60,30,18
+Anthracnose,0.3,80,25,18
+Anthracnose,0.3,70,25,20
+Anthracnose,0.3,60,25,22
+Anthracnose,0.3,80,30,15
+Anthracnose,0.3,70,30,17
+Anthracnose,0.3,60,30,19
+Anthracnose,0.2,80,25,18.5
+Anthracnose,0.2,70,25,20.5
+Anthracnose,0.2,60,25,22.5
+Anthracnose,0.2,80,30,15.5
+Anthracnose,0.2,70,30,17.5
+Anthracnose,0.2,60,30,19.5
+Anthracnose,0.1,80,25,19
+Anthracnose,0.1,70,25,21
+Anthracnose,0.1,60,25,23
+Anthracnose,0.1,80,30,16
+Anthracnose,0.1,70,30,18
+Anthracnose,0.1,60,30,20
+Anthracnose,1.5,80,25,15
+Anthracnose,1.5,70,25,17
+Anthracnose,1.5,60,25,19
+Anthracnose,1.5,80,30,13
+Anthracnose,1.5,70,30,14
+Anthracnose,1.5,60,30,15
+Anthracnose,1.6,80,25,15
+Anthracnose,1.6,70,25,17
+Anthracnose,1.6,60,25,19
+Anthracnose,1.6,80,30,13
+Anthracnose,1.6,70,30,14
+Anthracnose,1.6,60,30,15
+Anthracnose,1.7,80,25,15
+Anthracnose,1.7,70,25,17
+Anthracnose,1.7,60,25,19
+Anthracnose,1.7,80,30,13
+Anthracnose,1.7,70,30,14
+Anthracnose,1.7,60,30,15
+Anthracnose,1.8,80,25,14.7
+Anthracnose,1.8,70,25,16.7
+Anthracnose,1.8,60,25,18.7
+Anthracnose,1.8,80,30,12.7
+Anthracnose,1.8,70,30,13.7
+Anthracnose,1.8,60,30,14.7
+Anthracnose,1.9,80,25,14.7
+Anthracnose,1.9,70,25,16.7
+Anthracnose,1.9,60,25,18.7
+Anthracnose,1.9,80,30,12.7
+Anthracnose,1.9,70,30,13.7
+Anthracnose,1.9,60,30,14.7
+Anthracnose,2.5,80,25,14
+Anthracnose,2.5,70,25,16
+Anthracnose,2.5,60,25,18
+Anthracnose,2.5,80,30,12
+Anthracnose,2.5,70,30,13
+Anthracnose,2.5,60,30,14
+Anthracnose,2.6,80,25,14
+Anthracnose,2.6,70,25,16
+Anthracnose,2.6,60,25,18
+Anthracnose,2.6,80,30,12
+Anthracnose,2.6,70,30,13
+Anthracnose,2.6,60,30,14
+Anthracnose,2.7,80,25,14
+Anthracnose,2.7,70,25,16
+Anthracnose,2.7,60,25,18
+Anthracnose,2.7,80,30,12
+Anthracnose,2.7,70,30,13
+Anthracnose,2.7,60,30,14
+Anthracnose,2.8,80,25,13.7
+Anthracnose,2.8,70,25,15.7
+Anthracnose,2.8,60,25,17.7
+Anthracnose,2.8,80,30,11.7
+Anthracnose,2.8,70,30,12.7
+Anthracnose,2.8,60,30,13.7
+Anthracnose,2.9,80,25,13.7
+Anthracnose,2.9,70,25,15.7
+Anthracnose,2.9,60,25,17.7
+Anthracnose,2.9,80,30,11.7
+Anthracnose,2.9,70,30,12.7
+Anthracnose,2.9,60,30,13.7
+Anthracnose,3.5,80,25,13
+Anthracnose,3.5,70,25,15
+Anthracnose,3.5,60,25,17
+Anthracnose,3.5,80,30,11
+Anthracnose,3.5,70,30,12
+Anthracnose,3.5,60,30,13
+Anthracnose,3.6,80,25,13
+Anthracnose,3.6,70,25,15
+Anthracnose,3.6,60,25,17
+Anthracnose,3.6,80,30,11
+Anthracnose,3.6,70,30,12
+Anthracnose,3.6,60,30,13
+Anthracnose,3.7,80,25,13
+Anthracnose,3.7,70,25,15
+Anthracnose,3.7,60,25,17
+Anthracnose,3.7,80,30,11
+Anthracnose,3.7,70,30,12
+Anthracnose,3.7,60,30,13
+Anthracnose,3.8,80,25,12.5
+Anthracnose,3.8,70,25,14.5
+Anthracnose,3.8,60,25,16.5
+Anthracnose,3.8,80,30,10.5
+Anthracnose,3.8,70,30,11.5
+Anthracnose,3.8,60,30,12.5
+Anthracnose,3.9,80,25,12.5
+Anthracnose,3.9,70,25,14.5
+Anthracnose,3.9,60,25,16.5
+Anthracnose,3.9,80,30,10.5
+Anthracnose,3.9,70,30,11.5
+Anthracnose,3.9,60,30,12.5
+Anthracnose,4.6,80,25,11
+Anthracnose,4.6,70,25,13
+Anthracnose,4.6,60,25,15
+Anthracnose,4.6,80,30,9
+Anthracnose,4.6,70,30,10
+Anthracnose,4.6,60,30,11
+Anthracnose,4.7,80,25,10.2
+Anthracnose,4.7,70,25,12.2
+Anthracnose,4.7,60,25,14.2
+Anthracnose,4.7,80,30,8.2
+Anthracnose,4.7,70,30,9.2
+Anthracnose,4.7,60,30,10.2
+Anthracnose,4.8,80,25,10.2
+Anthracnose,4.8,70,25,12.2
+Anthracnose,4.8,60,25,14.2
+Anthracnose,4.8,80,30,8.2
+Anthracnose,4.8,70,30,9.2
+Anthracnose,4.8,60,30,10.2
+Anthracnose,4.9,80,25,9.6
+Anthracnose,4.9,70,25,11.6
+Anthracnose,4.9,60,25,13.6
+Anthracnose,4.9,80,30,7.6
+Anthracnose,4.9,70,30,8.6
+Anthracnose,4.9,60,30,9.6
+Anthracnose,0.8,80,25,16.5
+Anthracnose,0.8,70,25,18.5
+Anthracnose,0.8,60,25,20.5
+Anthracnose,0.8,80,30,13.5
+Anthracnose,0.8,70,30,15.5
+Anthracnose,0.8,60,30,17.5
+Anthracnose,0.9,80,25,16.5
+Anthracnose,0.9,70,25,18.5
+Anthracnose,0.9,60,25,20.5
+Anthracnose,0.9,80,30,13.5
+Anthracnose,0.9,70,30,15.5
+Anthracnose,0.9,60,30,17.5
+Anthracnose,1.1,80,25,16
+Anthracnose,1.1,70,25,18
+Anthracnose,1.1,60,25,20
+Anthracnose,1.1,80,30,14
+Anthracnose,1.1,70,30,15
+Anthracnose,1.1,60,30,16
+Anthracnose,1.2,80,25,16
+Anthracnose,1.2,70,25,18
+Anthracnose,1.2,60,25,20
+Anthracnose,1.2,80,30,14
+Anthracnose,1.2,70,30,15
+Anthracnose,1.2,60,30,16
+Anthracnose,1.3,80,25,15.5
+Anthracnose,1.3,70,25,17.5
+Anthracnose,1.3,60,25,19.5
+Anthracnose,1.3,80,30,13.5
+Anthracnose,1.3,70,30,14.5
+Anthracnose,1.3,60,30,15.5
+Anthracnose,1.4,80,25,15.5
+Anthracnose,1.4,70,25,17.5
+Anthracnose,1.4,60,25,19.5
+Anthracnose,1.4,80,30,13.5
+Anthracnose,1.4,70,30,14.5
+Anthracnose,1.4,60,30,15.5
+Anthracnose,2,80,25,14.5
+Anthracnose,2,70,25,16.5
+Anthracnose,2,60,25,18.5
+Anthracnose,2,80,30,12.5
+Anthracnose,2,70,30,13.5
+Anthracnose,2,60,30,14.5
+Anthracnose,2.1,80,25,14.5
+Anthracnose,2.1,70,25,16.5
+Anthracnose,2.1,60,25,18.5
+Anthracnose,2.1,80,30,12.5
+Anthracnose,2.1,70,30,13.5
+Anthracnose,2.1,60,30,14.5
+Anthracnose,2.2,80,25,14.5
+Anthracnose,2.2,70,25,16.5
+Anthracnose,2.2,60,25,18.5
+Anthracnose,2.2,80,30,12.5
+Anthracnose,2.2,70,30,13.5
+Anthracnose,2.2,60,30,14.5
+Anthracnose,2.3,80,25,14.2
+Anthracnose,2.3,70,25,16.2
+Anthracnose,2.3,60,25,18.2
+Anthracnose,2.3,80,30,12.2
+Anthracnose,2.3,70,30,13.2
+Anthracnose,2.3,60,30,14.2
+Anthracnose,2.4,80,25,14.2
+Anthracnose,2.4,70,25,16.2
+Anthracnose,2.4,60,25,18.2
+Anthracnose,2.4,80,30,12.2
+Anthracnose,2.4,70,30,13.2
+Anthracnose,2.4,60,30,14.2
+Anthracnose,3,80,25,13.5
+Anthracnose,3,70,25,15.5
+Anthracnose,3,60,25,17.5
+Anthracnose,3,80,30,11.5
+Anthracnose,3,70,30,12.5
+Anthracnose,3,60,30,13.5
+Anthracnose,3.1,80,25,13.5
+Anthracnose,3.1,70,25,15.5
+Anthracnose,3.1,60,25,17.5
+Anthracnose,3.1,80,30,11.5
+Anthracnose,3.1,70,30,12.5
+Anthracnose,3.1,60,30,13.5
+Anthracnose,3.2,80,25,13.5
+Anthracnose,3.2,70,25,15.5
+Anthracnose,3.2,60,25,17.5
+Anthracnose,3.2,80,30,11.5
+Anthracnose,3.2,70,30,12.5
+Anthracnose,3.2,60,30,13.5
+Anthracnose,3.3,80,25,13.2
+Anthracnose,3.3,70,25,15.2
+Anthracnose,3.3,60,25,17.2
+Anthracnose,3.3,80,30,11.2
+Anthracnose,3.3,70,30,12.2
+Anthracnose,3.3,60,30,13.2
+Anthracnose,3.4,80,25,13.2
+Anthracnose,3.4,70,25,15.2
+Anthracnose,3.4,60,25,17.2
+Anthracnose,3.4,80,30,11.2
+Anthracnose,3.4,70,30,12.2
+Anthracnose,3.4,60,30,13.2
+Anthracnose,4,80,25,12
+Anthracnose,4,70,25,14
+Anthracnose,4,60,25,16
+Anthracnose,4,80,30,10
+Anthracnose,4,70,30,11
+Anthracnose,4,60,30,12
+Anthracnose,4.1,80,25,12
+Anthracnose,4.1,70,25,14
+Anthracnose,4.1,60,25,16
+Anthracnose,4.1,80,30,10
+Anthracnose,4.1,70,30,11
+Anthracnose,4.1,60,30,12
+Anthracnose,4.2,80,25,12
+Anthracnose,4.2,70,25,14
+Anthracnose,4.2,60,25,16
+Anthracnose,4.2,80,30,10
+Anthracnose,4.2,70,30,11
+Anthracnose,4.2,60,30,12
+Anthracnose,4.3,80,25,11.5
+Anthracnose,4.3,70,25,13.5
+Anthracnose,4.3,60,25,15.5
+Anthracnose,4.3,80,30,9.5
+Anthracnose,4.3,70,30,10.5
+Anthracnose,4.3,60,30,11.5
+Anthracnose,4.4,80,25,11.5
+Anthracnose,4.4,70,25,13.5
+Anthracnose,4.4,60,25,15.5
+Anthracnose,4.4,80,30,9.5
+Anthracnose,4.4,70,30,10.5
+Anthracnose,4.4,60,30,11.5
+Anthracnose,1,80,20,15
+Anthracnose,1,70,20,17
+Anthracnose,1,60,20,19
+Anthracnose,5,80,20,9
+Anthracnose,5,70,20,11
+Anthracnose,5,60,20,13
+Anthracnose,1,80,15,20
+Anthracnose,1,70,15,22
+Anthracnose,1,60,15,24
+Anthracnose,5,80,15,15
+Anthracnose,5,70,15,17
+Anthracnose,5,60,15,19
+Anthracnose,0.5,80,20,17
+Anthracnose,0.5,70,20,19
+Anthracnose,0.5,60,20,21
+Anthracnose,4.5,80,20,11
+Anthracnose,4.5,70,20,13
+Anthracnose,4.5,60,20,15
+Anthracnose,0.5,80,15,21
+Anthracnose,0.5,70,15,23
+Anthracnose,0.5,60,15,25
+Anthracnose,4.5,80,15,16
+Anthracnose,4.5,70,15,17
+Anthracnose,4.5,60,15,21
+Anthracnose,3,80,20,13.5
+Anthracnose,3,70,20,15.5
+Anthracnose,3,60,20,17.5
+Anthracnose,3,80,15,18.5
+Anthracnose,3,70,15,19.5
+Anthracnose,3,60,15,23.5
+Anthracnose,2,80,20,14.5
+Anthracnose,2,70,20,16.5
+Anthracnose,2,60,20,18.5
+Anthracnose,2,80,15,19.5
+Anthracnose,2,70,15,20.5
+Anthracnose,2,60,15,24.5
+Anthracnose,4,80,20,12
+Anthracnose,4,70,20,14
+Anthracnose,4,60,20,16
+Anthracnose,4,80,15,17
+Anthracnose,4,70,15,18
+Anthracnose,4,60,15,22
+Anthracnose,3.5,80,20,13
+Anthracnose,3.5,70,20,15
+Anthracnose,3.5,60,20,17
+Anthracnose,3.5,80,15,17
+Anthracnose,3.5,70,15,19
+Anthracnose,3.5,60,15,23
+Anthracnose,2.5,80,20,14
+Anthracnose,2.5,70,20,16
+Anthracnose,2.5,60,20,18
+Anthracnose,2.5,80,15,19
+Anthracnose,2.5,70,15,20
+Anthracnose,2.5,60,15,24
+Anthracnose,1.5,80,20,15
+Anthracnose,1.5,70,20,17
+Anthracnose,1.5,60,20,19
+Anthracnose,1.5,80,15,20
+Anthracnose,1.5,70,15,21
+Anthracnose,1.5,60,15,25
+Anthracnose,0.6,80,20,17
+Anthracnose,0.6,70,20,19
+Anthracnose,0.6,60,20,21
+Anthracnose,0.6,80,15,21
+Anthracnose,0.6,70,15,23
+Anthracnose,0.6,60,15,28
+Anthracnose,0.7,80,20,17
+Anthracnose,0.7,70,20,19
+Anthracnose,0.7,60,20,21
+Anthracnose,0.7,80,15,21
+Anthracnose,0.7,70,15,23
+Anthracnose,0.7,60,15,28
+Anthracnose,0.4,80,20,17
+Anthracnose,0.4,70,20,19
+Anthracnose,0.4,60,20,21
+Anthracnose,0.4,80,15,21
+Anthracnose,0.4,70,15,23
+Anthracnose,0.4,60,15,28
+Anthracnose,0.3,80,20,18
+Anthracnose,0.3,70,20,20
+Anthracnose,0.3,60,20,22
+Anthracnose,0.3,80,15,21
+Anthracnose,0.3,70,15,23
+Anthracnose,0.3,60,15,29
+Anthracnose,0.2,80,20,18.5
+Anthracnose,0.2,70,20,20.5
+Anthracnose,0.2,60,20,22.5
+Anthracnose,0.2,80,15,22.5
+Anthracnose,0.2,70,15,24.5
+Anthracnose,0.2,60,15,29.5
+Anthracnose,0.1,80,20,19
+Anthracnose,0.1,70,20,21
+Anthracnose,0.1,60,20,23
+Anthracnose,0.1,80,15,23
+Anthracnose,0.1,70,15,24
+Anthracnose,0.1,60,15,30
+Anthracnose,1.5,80,20,15
+Anthracnose,1.5,70,20,17
+Anthracnose,1.5,60,20,19
+Anthracnose,1.5,80,15,20
+Anthracnose,1.5,70,15,21
+Anthracnose,1.5,60,15,25
+Anthracnose,1.6,80,20,15
+Anthracnose,1.6,70,20,17
+Anthracnose,1.6,60,20,19
+Anthracnose,1.6,80,15,20
+Anthracnose,1.6,70,15,21
+Anthracnose,1.6,60,15,25
+Anthracnose,1.7,80,20,15
+Anthracnose,1.7,70,20,17
+Anthracnose,1.7,60,20,19
+Anthracnose,1.7,80,15,20
+Anthracnose,1.7,70,15,21
+Anthracnose,1.7,60,15,25
+Anthracnose,1.8,80,20,14.7
+Anthracnose,1.8,70,20,16.7
+Anthracnose,1.8,60,20,18.7
+Anthracnose,1.8,80,15,19.7
+Anthracnose,1.8,70,15,20.7
+Anthracnose,1.8,60,15,24.7
+Anthracnose,1.9,80,20,14.7
+Anthracnose,1.9,70,20,16.7
+Anthracnose,1.9,60,20,18.7
+Anthracnose,1.9,80,15,19.7
+Anthracnose,1.9,70,15,20.7
+Anthracnose,1.9,60,15,24.7
+Anthracnose,2.5,80,20,14
+Anthracnose,2.5,70,20,16
+Anthracnose,2.5,60,20,18
+Anthracnose,2.5,80,15,19
+Anthracnose,2.5,70,15,20
+Anthracnose,2.5,60,15,24
+Anthracnose,2.6,80,20,14
+Anthracnose,2.6,70,20,16
+Anthracnose,2.6,60,20,18
+Anthracnose,2.6,80,15,19
+Anthracnose,2.6,70,15,20
+Anthracnose,2.6,60,15,24
+Anthracnose,2.7,80,20,14
+Anthracnose,2.7,70,20,16
+Anthracnose,2.7,60,20,18
+Anthracnose,2.7,80,15,19
+Anthracnose,2.7,70,15,20
+Anthracnose,2.7,60,15,24
+Anthracnose,2.8,80,20,13.7
+Anthracnose,2.8,70,20,15.7
+Anthracnose,2.8,60,20,17.7
+Anthracnose,2.8,80,15,18.7
+Anthracnose,2.8,70,15,19.7
+Anthracnose,2.8,60,15,23.7
+Anthracnose,2.9,80,20,13.7
+Anthracnose,2.9,70,20,15.7
+Anthracnose,2.9,60,20,17.7
+Anthracnose,2.9,80,15,18.7
+Anthracnose,2.9,70,15,19.7
+Anthracnose,2.9,60,15,23.7
+Anthracnose,3.5,80,20,13
+Anthracnose,3.5,70,20,15
+Anthracnose,3.5,60,20,17
+Anthracnose,3.5,80,15,18
+Anthracnose,3.5,70,15,19
+Anthracnose,3.5,60,15,23
+Anthracnose,3.6,80,20,13
+Anthracnose,3.6,70,20,15
+Anthracnose,3.6,60,20,17
+Anthracnose,3.6,80,15,18
+Anthracnose,3.6,70,15,19
+Anthracnose,3.6,60,15,23
+Anthracnose,3.7,80,20,13
+Anthracnose,3.7,70,20,15
+Anthracnose,3.7,60,20,17
+Anthracnose,3.7,80,15,18
+Anthracnose,3.7,70,15,19
+Anthracnose,3.7,60,15,23
+Anthracnose,3.8,80,20,12.5
+Anthracnose,3.8,70,20,14.5
+Anthracnose,3.8,60,20,16.5
+Anthracnose,3.8,80,15,17.5
+Anthracnose,3.8,70,15,18.5
+Anthracnose,3.8,60,15,22.5
+Anthracnose,3.9,80,20,12.5
+Anthracnose,3.9,70,20,14.5
+Anthracnose,3.9,60,20,16.5
+Anthracnose,3.9,80,15,17.5
+Anthracnose,3.9,70,15,18.5
+Anthracnose,3.9,60,15,22.5
+Anthracnose,4.6,80,20,11
+Anthracnose,4.6,70,20,13
+Anthracnose,4.6,60,20,15
+Anthracnose,4.6,80,15,16
+Anthracnose,4.6,70,15,17
+Anthracnose,4.6,60,15,21
+Anthracnose,4.7,80,20,10.2
+Anthracnose,4.7,70,20,12.2
+Anthracnose,4.7,60,20,14.2
+Anthracnose,4.7,80,15,15.2
+Anthracnose,4.7,70,15,16.2
+Anthracnose,4.7,60,15,20.2
+Anthracnose,4.8,80,20,10.2
+Anthracnose,4.8,70,20,12.2
+Anthracnose,4.8,60,20,14.2
+Anthracnose,4.8,80,15,15.2
+Anthracnose,4.8,70,15,16.2
+Anthracnose,4.8,60,15,20.2
+Anthracnose,4.9,80,20,9.6
+Anthracnose,4.9,70,20,11.6
+Anthracnose,4.9,60,20,13.6
+Anthracnose,4.9,80,15,14.5
+Anthracnose,4.9,70,15,15.6
+Anthracnose,4.9,60,15,19.6
+Anthracnose,0.8,80,20,16.5
+Anthracnose,0.8,70,20,18.5
+Anthracnose,0.8,60,20,20.5
+Anthracnose,0.8,80,15,20.5
+Anthracnose,0.8,70,15,22.5
+Anthracnose,0.8,60,15,27.5
+Anthracnose,0.9,80,20,16.5
+Anthracnose,0.9,70,20,18.5
+Anthracnose,0.9,60,20,20.5
+Anthracnose,0.9,80,15,20.5
+Anthracnose,0.9,70,15,22.5
+Anthracnose,0.9,60,15,27.5
+Anthracnose,1.1,80,20,16
+Anthracnose,1.1,70,20,18
+Anthracnose,1.1,60,20,20
+Anthracnose,1.1,80,15,21
+Anthracnose,1.1,70,15,22
+Anthracnose,1.1,60,15,26
+Anthracnose,1.2,80,20,16
+Anthracnose,1.2,70,20,18
+Anthracnose,1.2,60,20,20
+Anthracnose,1.2,80,15,21
+Anthracnose,1.2,70,15,22
+Anthracnose,1.2,60,15,26
+Anthracnose,1.3,80,20,15.5
+Anthracnose,1.3,70,20,17.5
+Anthracnose,1.3,60,20,19.5
+Anthracnose,1.3,80,15,20.5
+Anthracnose,1.3,70,15,21.5
+Anthracnose,1.3,60,15,25.5
+Anthracnose,1.4,80,20,15.5
+Anthracnose,1.4,70,20,17.5
+Anthracnose,1.4,60,20,19.5
+Anthracnose,1.4,80,15,20.5
+Anthracnose,1.4,70,15,21.5
+Anthracnose,1.4,60,15,25.5
+Anthracnose,2,80,20,14.5
+Anthracnose,2,70,20,16.5
+Anthracnose,2,60,20,18.5
+Anthracnose,2,80,15,19.5
+Anthracnose,2,70,15,20.5
+Anthracnose,2,60,15,24.5
+Anthracnose,2.1,80,20,14.5
+Anthracnose,2.1,70,20,16.5
+Anthracnose,2.1,60,20,18.5
+Anthracnose,2.1,80,15,19.5
+Anthracnose,2.1,70,15,20.5
+Anthracnose,2.1,60,15,24.5
+Anthracnose,2.2,80,20,14.5
+Anthracnose,2.2,70,20,16.5
+Anthracnose,2.2,60,20,18.5
+Anthracnose,2.2,80,15,19.5
+Anthracnose,2.2,70,15,20.5
+Anthracnose,2.2,60,15,24.5
+Anthracnose,2.3,80,20,14.2
+Anthracnose,2.3,70,20,16.2
+Anthracnose,2.3,60,20,18.2
+Anthracnose,2.3,80,15,19.2
+Anthracnose,2.3,70,15,20.2
+Anthracnose,2.3,60,15,24.2
+Anthracnose,2.4,80,20,14.2
+Anthracnose,2.4,70,20,16.2
+Anthracnose,2.4,60,20,18.2
+Anthracnose,2.4,80,15,19.2
+Anthracnose,2.4,70,15,20.2
+Anthracnose,2.4,60,15,24.2
+Anthracnose,3,80,20,13.5
+Anthracnose,3,70,20,15.5
+Anthracnose,3,60,20,17.5
+Anthracnose,3,80,15,18.2
+Anthracnose,3,70,15,19.2
+Anthracnose,3,60,15,23.5
+Anthracnose,3.1,80,20,13.5
+Anthracnose,3.1,70,20,15.5
+Anthracnose,3.1,60,20,17.5
+Anthracnose,3.1,80,15,18.5
+Anthracnose,3.1,70,15,19.5
+Anthracnose,3.1,60,15,23.5
+Anthracnose,3.2,80,20,13.5
+Anthracnose,3.2,70,20,15.5
+Anthracnose,3.2,60,20,17.5
+Anthracnose,3.2,80,15,18.5
+Anthracnose,3.2,70,15,19.5
+Anthracnose,3.2,60,15,23.5
+Anthracnose,3.3,80,20,13.2
+Anthracnose,3.3,70,20,15.2
+Anthracnose,3.3,60,20,17.2
+Anthracnose,3.3,80,15,18.2
+Anthracnose,3.3,70,15,19.2
+Anthracnose,3.3,60,15,23.2
+Anthracnose,3.4,80,20,13.2
+Anthracnose,3.4,70,20,15.2
+Anthracnose,3.4,60,20,17.2
+Anthracnose,3.4,80,15,18.2
+Anthracnose,3.4,70,15,19.2
+Anthracnose,3.4,60,15,23.2
+Anthracnose,4,80,20,12
+Anthracnose,4,70,20,14
+Anthracnose,4,60,20,16
+Anthracnose,4,80,15,17
+Anthracnose,4,70,15,18
+Anthracnose,4,60,15,22
+Anthracnose,4.1,80,20,12
+Anthracnose,4.1,70,20,14
+Anthracnose,4.1,60,20,16
+Anthracnose,4.1,80,15,17
+Anthracnose,4.1,70,15,18
+Anthracnose,4.1,60,15,22
+Anthracnose,4.2,80,20,12
+Anthracnose,4.2,70,20,14
+Anthracnose,4.2,60,20,16
+Anthracnose,4.2,80,15,17
+Anthracnose,4.2,70,15,18
+Anthracnose,4.2,60,15,20
+Anthracnose,4.3,80,20,11.5
+Anthracnose,4.3,70,20,13.5
+Anthracnose,4.3,60,20,15.5
+Anthracnose,4.3,80,15,16.5
+Anthracnose,4.3,70,15,17.5
+Anthracnose,4.3,60,15,21.5
+Anthracnose,4.4,80,20,11.5
+Anthracnose,4.4,70,20,13.5
+Anthracnose,4.4,60,20,15.5
+Anthracnose,4.4,80,15,16.5
+Anthracnose,4.4,70,15,17.5
+Anthracnose,4.4,60,15,21.5
+Anthracnose,1,80,35,10
+Anthracnose,1,70,35,12
+Anthracnose,1,60,35,14
+Anthracnose,5,80,35,6
+Anthracnose,5,70,35,7
+Anthracnose,5,60,35,8
+Anthracnose,1,80,40,8
+Anthracnose,1,70,40,10
+Anthracnose,1,60,40,12
+Anthracnose,5,80,40,4
+Anthracnose,5,70,40,5
+Anthracnose,5,60,40,6
+Anthracnose,0.5,80,25,12.5
+Anthracnose,0.5,70,25,14.5
+Anthracnose,0.5,60,25,16.5
+Anthracnose,4.5,80,25,6.5
+Anthracnose,4.5,70,25,8.5
+Anthracnose,4.5,60,25,10.5
+Anthracnose,0.5,80,30,9.5
+Anthracnose,0.5,70,30,11.5
+Anthracnose,0.5,60,30,13.5
+Anthracnose,4.5,80,30,4.5
+Anthracnose,4.5,70,30,5.5
+Anthracnose,4.5,60,30,6.5
+Anthracnose,3,80,25,9
+Anthracnose,3,70,25,11
+Anthracnose,3,60,25,13
+Anthracnose,3,80,30,7
+Anthracnose,3,70,30,8
+Anthracnose,3,60,30,9
+Anthracnose,2,80,25,10
+Anthracnose,2,70,25,12
+Anthracnose,2,60,25,14
+Anthracnose,2,80,30,8
+Anthracnose,2,70,30,9
+Anthracnose,2,60,30,10
+Anthracnose,4,80,25,7.5
+Anthracnose,4,70,25,9.5
+Anthracnose,4,60,25,11.5
+Anthracnose,4,80,30,5.5
+Anthracnose,4,70,30,6.5
+Anthracnose,4,60,30,7.5
+Anthracnose,3.5,80,25,8.5
+Anthracnose,3.5,70,25,10.5
+Anthracnose,3.5,60,25,12.5
+Anthracnose,3.5,80,30,6.5
+Anthracnose,3.5,70,30,7.5
+Anthracnose,3.5,60,30,8.5
+Anthracnose,2.5,80,25,9.5
+Anthracnose,2.5,70,25,11.5
+Anthracnose,2.5,60,25,13.5
+Anthracnose,2.5,80,30,7.5
+Anthracnose,2.5,70,30,8.5
+Anthracnose,2.5,60,30,9.5
+Anthracnose,1.5,80,25,10.5
+Anthracnose,1.5,70,25,12.5
+Anthracnose,1.5,60,25,14.5
+Anthracnose,1.5,80,30,8.5
+Anthracnose,1.5,70,30,9.5
+Anthracnose,1.5,60,30,10.5
+Anthracnose,0.6,80,25,12.5
+Anthracnose,0.6,70,25,14.5
+Anthracnose,0.6,60,25,16.5
+Anthracnose,0.6,80,30,9.5
+Anthracnose,0.6,70,30,11.5
+Anthracnose,0.6,60,30,13.5
+Anthracnose,0.7,80,25,12.5
+Anthracnose,0.7,70,25,14.5
+Anthracnose,0.7,60,25,16.5
+Anthracnose,0.7,80,30,9.5
+Anthracnose,0.7,70,30,11.5
+Anthracnose,0.7,60,30,13.5
+Anthracnose,0.4,80,25,12.5
+Anthracnose,0.4,70,25,14.5
+Anthracnose,0.4,60,25,16.5
+Anthracnose,0.4,80,30,9.5
+Anthracnose,0.4,70,30,11.5
+Anthracnose,0.4,60,30,13.5
+Anthracnose,0.3,80,25,13.5
+Anthracnose,0.3,70,25,15.5
+Anthracnose,0.3,60,25,17.5
+Anthracnose,0.3,80,30,10.5
+Anthracnose,0.3,70,30,12.5
+Anthracnose,0.3,60,30,14.5
+Anthracnose,0.2,80,25,14
+Anthracnose,0.2,70,25,16
+Anthracnose,0.2,60,25,18
+Anthracnose,0.2,80,30,11
+Anthracnose,0.2,70,30,13
+Anthracnose,0.2,60,30,15
+Anthracnose,0.1,80,25,14.5
+Anthracnose,0.1,70,25,16.5
+Anthracnose,0.1,60,25,18.5
+Anthracnose,0.1,80,30,11.5
+Anthracnose,0.1,70,30,13.5
+Anthracnose,0.1,60,30,15.5
+Anthracnose,1.5,80,25,10.5
+Anthracnose,1.5,70,25,12.5
+Anthracnose,1.5,60,25,14.5
+Anthracnose,1.5,80,30,8.5
+Anthracnose,1.5,70,30,9.5
+Anthracnose,1.5,60,30,10.5
+Anthracnose,1.6,80,25,10.5
+Anthracnose,1.6,70,25,12.5
+Anthracnose,1.6,60,25,14.5
+Anthracnose,1.6,80,30,8.5
+Anthracnose,1.6,70,30,9.5
+Anthracnose,1.6,60,30,10.5
+Anthracnose,1.7,80,25,10.5
+Anthracnose,1.7,70,25,12.5
+Anthracnose,1.7,60,25,14.5
+Anthracnose,1.7,80,30,8.5
+Anthracnose,1.7,70,30,9.5
+Anthracnose,1.7,60,30,10.5
+Anthracnose,1.8,80,25,10.2
+Anthracnose,1.8,70,25,12.2
+Anthracnose,1.8,60,25,14.2
+Anthracnose,1.8,80,30,8.2
+Anthracnose,1.8,70,30,9.2
+Anthracnose,1.8,60,30,10.2
+Anthracnose,1.9,80,25,10.2
+Anthracnose,1.9,70,25,12.2
+Anthracnose,1.9,60,25,14.2
+Anthracnose,1.9,80,30,8.2
+Anthracnose,1.9,70,30,9.2
+Anthracnose,1.9,60,30,10.2
+Anthracnose,2.5,80,25,9.5
+Anthracnose,2.5,70,25,11.5
+Anthracnose,2.5,60,25,13.5
+Anthracnose,2.5,80,30,7.5
+Anthracnose,2.5,70,30,8.5
+Anthracnose,2.5,60,30,9.5
+Anthracnose,2.6,80,25,9.5
+Anthracnose,2.6,70,25,11.5
+Anthracnose,2.6,60,25,13.5
+Anthracnose,2.6,80,30,7.5
+Anthracnose,2.6,70,30,8.5
+Anthracnose,2.6,60,30,9.5
+Anthracnose,2.7,80,25,9.5
+Anthracnose,2.7,70,25,11.5
+Anthracnose,2.7,60,25,13.5
+Anthracnose,2.7,80,30,7.5
+Anthracnose,2.7,70,30,8.5
+Anthracnose,2.7,60,30,9.5
+Anthracnose,2.8,80,25,9.2
+Anthracnose,2.8,70,25,11.2
+Anthracnose,2.8,60,25,13.2
+Anthracnose,2.8,80,30,7.2
+Anthracnose,2.8,70,30,8.2
+Anthracnose,2.8,60,30,9.2
+Anthracnose,2.9,80,25,9.2
+Anthracnose,2.9,70,25,11.2
+Anthracnose,2.9,60,25,13.2
+Anthracnose,2.9,80,30,7.2
+Anthracnose,2.9,70,30,8.2
+Anthracnose,2.9,60,30,9.2
+Anthracnose,3.5,80,25,8.5
+Anthracnose,3.5,70,25,10.5
+Anthracnose,3.5,60,25,12.5
+Anthracnose,3.5,80,30,6.5
+Anthracnose,3.5,70,30,7.5
+Anthracnose,3.5,60,30,8.5
+Anthracnose,3.6,80,25,8.5
+Anthracnose,3.6,70,25,10.5
+Anthracnose,3.6,60,25,12.5
+Anthracnose,3.6,80,30,6.5
+Anthracnose,3.6,70,30,7.5
+Anthracnose,3.6,60,30,8.5
+Anthracnose,3.7,80,25,8.5
+Anthracnose,3.7,70,25,10.5
+Anthracnose,3.7,60,25,12.5
+Anthracnose,3.7,80,30,6.5
+Anthracnose,3.7,70,30,7.5
+Anthracnose,3.7,60,30,8.5
+Anthracnose,3.8,80,25,8
+Anthracnose,3.8,70,25,10
+Anthracnose,3.8,60,25,12
+Anthracnose,3.8,80,30,6
+Anthracnose,3.8,70,30,7
+Anthracnose,3.8,60,30,8
+Anthracnose,3.9,80,25,8
+Anthracnose,3.9,70,25,10
+Anthracnose,3.9,60,25,12
+Anthracnose,3.9,80,30,6
+Anthracnose,3.9,70,30,7
+Anthracnose,3.9,60,30,8
+Anthracnose,4.6,80,25,6.5
+Anthracnose,4.6,70,25,8.5
+Anthracnose,4.6,60,25,10.5
+Anthracnose,4.6,80,30,4.5
+Anthracnose,4.6,70,30,5.5
+Anthracnose,4.6,60,30,6.5
+Anthracnose,4.7,80,25,5.7
+Anthracnose,4.7,70,25,7.7
+Anthracnose,4.7,60,25,9.7
+Anthracnose,4.7,80,30,3.7
+Anthracnose,4.7,70,30,4.7
+Anthracnose,4.7,60,30,5.7
+Anthracnose,4.8,80,25,5.7
+Anthracnose,4.8,70,25,7.7
+Anthracnose,4.8,60,25,9.7
+Anthracnose,4.8,80,30,3.7
+Anthracnose,4.8,70,30,4.7
+Anthracnose,4.8,60,30,5.7
+Anthracnose,4.9,80,25,5.1
+Anthracnose,4.9,70,25,7.1
+Anthracnose,4.9,60,25,9.1
+Anthracnose,4.9,80,30,3.1
+Anthracnose,4.9,70,30,4.1
+Anthracnose,4.9,60,30,5.1
+Anthracnose,0.8,80,25,12
+Anthracnose,0.8,70,25,14
+Anthracnose,0.8,60,25,16
+Anthracnose,0.8,80,30,9
+Anthracnose,0.8,70,30,11
+Anthracnose,0.8,60,30,13
+Anthracnose,0.9,80,25,12
+Anthracnose,0.9,70,25,14
+Anthracnose,0.9,60,25,16
+Anthracnose,0.9,80,30,9
+Anthracnose,0.9,70,30,11
+Anthracnose,0.9,60,30,13
+Anthracnose,1.1,80,25,11.5
+Anthracnose,1.1,70,25,13.5
+Anthracnose,1.1,60,25,15.5
+Anthracnose,1.1,80,30,9.5
+Anthracnose,1.1,70,30,10.5
+Anthracnose,1.1,60,30,11.5
+Anthracnose,1.2,80,25,11.5
+Anthracnose,1.2,70,25,13.5
+Anthracnose,1.2,60,25,15.5
+Anthracnose,1.2,80,30,9.5
+Anthracnose,1.2,70,30,10.5
+Anthracnose,1.2,60,30,11.5
+Anthracnose,1.3,80,25,11
+Anthracnose,1.3,70,25,13
+Anthracnose,1.3,60,25,15
+Anthracnose,1.3,80,30,9
+Anthracnose,1.3,70,30,10
+Anthracnose,1.3,60,30,11
+Anthracnose,1.4,80,25,11
+Anthracnose,1.4,70,25,13
+Anthracnose,1.4,60,25,15
+Anthracnose,1.4,80,30,9
+Anthracnose,1.4,70,30,10
+Anthracnose,1.4,60,30,11
+Anthracnose,2,80,25,10
+Anthracnose,2,70,25,12
+Anthracnose,2,60,25,14
+Anthracnose,2,80,30,8
+Anthracnose,2,70,30,9
+Anthracnose,2,60,30,10
+Anthracnose,2.1,80,25,10
+Anthracnose,2.1,70,25,12
+Anthracnose,2.1,60,25,14
+Anthracnose,2.1,80,30,8
+Anthracnose,2.1,70,30,9
+Anthracnose,2.1,60,30,10
+Anthracnose,2.2,80,25,10
+Anthracnose,2.2,70,25,12
+Anthracnose,2.2,60,25,14
+Anthracnose,2.2,80,30,8
+Anthracnose,2.2,70,30,9
+Anthracnose,2.2,60,30,10
+Anthracnose,2.3,80,25,9.7
+Anthracnose,2.3,70,25,11.7
+Anthracnose,2.3,60,25,13.7
+Anthracnose,2.3,80,30,7.7
+Anthracnose,2.3,70,30,8.7
+Anthracnose,2.3,60,30,9.7
+Anthracnose,2.4,80,25,9.7
+Anthracnose,2.4,70,25,11.7
+Anthracnose,2.4,60,25,13.7
+Anthracnose,2.4,80,30,7.7
+Anthracnose,2.4,70,30,8.7
+Anthracnose,2.4,60,30,9.7
+Anthracnose,3,80,25,9
+Anthracnose,3,70,25,11
+Anthracnose,3,60,25,13
+Anthracnose,3,80,30,7
+Anthracnose,3,70,30,8
+Anthracnose,3,60,30,9
+Anthracnose,3.1,80,25,9
+Anthracnose,3.1,70,25,11
+Anthracnose,3.1,60,25,13
+Anthracnose,3.1,80,30,7
+Anthracnose,3.1,70,30,8
+Anthracnose,3.1,60,30,9
+Anthracnose,3.2,80,25,9
+Anthracnose,3.2,70,25,11
+Anthracnose,3.2,60,25,13
+Anthracnose,3.2,80,30,7
+Anthracnose,3.2,70,30,8
+Anthracnose,3.2,60,30,9
+Anthracnose,3.3,80,25,8.7
+Anthracnose,3.3,70,25,10.7
+Anthracnose,3.3,60,25,12.7
+Anthracnose,3.3,80,30,6.7
+Anthracnose,3.3,70,30,7.7
+Anthracnose,3.3,60,30,8.7
+Anthracnose,3.4,80,25,8.7
+Anthracnose,3.4,70,25,10.7
+Anthracnose,3.4,60,25,12.7
+Anthracnose,3.4,80,30,6.7
+Anthracnose,3.4,70,30,7.7
+Anthracnose,3.4,60,30,8.7
+Anthracnose,4,80,25,7.5
+Anthracnose,4,70,25,9.5
+Anthracnose,4,60,25,11.5
+Anthracnose,4,80,30,5.5
+Anthracnose,4,70,30,6.5
+Anthracnose,4,60,30,7.5
+Anthracnose,4.1,80,25,7.5
+Anthracnose,4.1,70,25,9.5
+Anthracnose,4.1,60,25,11.5
+Anthracnose,4.1,80,30,5.5
+Anthracnose,4.1,70,30,6.5
+Anthracnose,4.1,60,30,7.5
+Anthracnose,4.2,80,25,7.5
+Anthracnose,4.2,70,25,9.5
+Anthracnose,4.2,60,25,11.5
+Anthracnose,4.2,80,30,5.5
+Anthracnose,4.2,70,30,6.5
+Anthracnose,4.2,60,30,7.5
+Anthracnose,4.3,80,25,7
+Anthracnose,4.3,70,25,9
+Anthracnose,4.3,60,25,11
+Anthracnose,4.3,80,30,5
+Anthracnose,4.3,70,30,6
+Anthracnose,4.3,60,30,7
+Anthracnose,4.4,80,25,7
+Anthracnose,4.4,70,25,9
+Anthracnose,4.4,60,25,11
+Anthracnose,4.4,80,30,5
+Anthracnose,4.4,70,30,6
+Anthracnose,4.4,60,30,7
